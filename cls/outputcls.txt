@@ -1,0 +1,2876 @@
+-----EPOCH1-----
+Iteration: 20, Time: 42.3816 s, training loss: 0.6919
+Epoch 1 done: validation_accuracy = 0.604
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.6023185483870968
+-----EPOCH2-----
+Iteration: 40, Time: 111.9656 s, training loss: 0.6870
+Epoch 2 done: validation_accuracy = 0.607
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6063508064516129
+-----EPOCH3-----
+Iteration: 60, Time: 182.4692 s, training loss: 0.6821
+Epoch 3 done: validation_accuracy = 0.612
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6113911290322581
+-----EPOCH4-----
+Iteration: 80, Time: 262.9652 s, training loss: 0.6755
+Iteration: 100, Time: 305.9849 s, training loss: 0.6679
+Epoch 4 done: validation_accuracy = 0.609
+-----EPOCH5-----
+Iteration: 120, Time: 353.5098 s, training loss: 0.6559
+Epoch 5 done: validation_accuracy = 0.620
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.6234879032258065
+-----EPOCH6-----
+Iteration: 140, Time: 424.5566 s, training loss: 0.6453
+Epoch 6 done: validation_accuracy = 0.633
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.6411290322580645
+-----EPOCH7-----
+Iteration: 160, Time: 504.5689 s, training loss: 0.6283
+Epoch 7 done: validation_accuracy = 0.659
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.6587701612903226
+-----EPOCH8-----
+Iteration: 180, Time: 576.1251 s, training loss: 0.6108
+Iteration: 200, Time: 620.2555 s, training loss: 0.5918
+Epoch 8 done: validation_accuracy = 0.664
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6759072580645161
+-----EPOCH9-----
+Iteration: 220, Time: 691.5715 s, training loss: 0.5650
+Epoch 9 done: validation_accuracy = 0.685
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6915322580645161
+-----EPOCH10-----
+Iteration: 240, Time: 763.3548 s, training loss: 0.5317
+Epoch 10 done: validation_accuracy = 0.711
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.7217741935483871
+-----EPOCH11-----
+Iteration: 260, Time: 835.6679 s, training loss: 0.5071
+Epoch 11 done: validation_accuracy = 0.714
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.75
+-----EPOCH12-----
+Iteration: 280, Time: 907.7607 s, training loss: 0.4702
+Iteration: 300, Time: 951.2178 s, training loss: 0.4350
+Epoch 12 done: validation_accuracy = 0.732
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.7681451612903226
+-----EPOCH13-----
+Iteration: 320, Time: 1022.3244 s, training loss: 0.4168
+Epoch 13 done: validation_accuracy = 0.747
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.7767137096774194
+-----EPOCH14-----
+Iteration: 340, Time: 1093.5396 s, training loss: 0.3952
+Epoch 14 done: validation_accuracy = 0.750
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.7797379032258065
+-----EPOCH15-----
+Iteration: 360, Time: 1165.0347 s, training loss: 0.3831
+Epoch 15 done: validation_accuracy = 0.750
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_14
+test_acc on best model:  0.7847782258064516
+-----EPOCH16-----
+Iteration: 380, Time: 1236.2576 s, training loss: 0.3714
+Iteration: 400, Time: 1279.5143 s, training loss: 0.3681
+Epoch 16 done: validation_accuracy = 0.758
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_15
+test_acc on best model:  0.7908266129032258
+-----EPOCH17-----
+Iteration: 420, Time: 1351.0604 s, training loss: 0.3500
+Epoch 17 done: validation_accuracy = 0.781
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_16
+test_acc on best model:  0.7988911290322581
+-----EPOCH18-----
+Iteration: 440, Time: 1422.6018 s, training loss: 0.3348
+Epoch 18 done: validation_accuracy = 0.792
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.8004032258064516
+-----EPOCH19-----
+Iteration: 460, Time: 1494.1361 s, training loss: 0.3204
+Epoch 19 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.8054435483870968
+-----EPOCH20-----
+Iteration: 480, Time: 1565.2465 s, training loss: 0.3110
+Iteration: 500, Time: 1608.7126 s, training loss: 0.3117
+Epoch 20 done: validation_accuracy = 0.812
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_19
+test_acc on best model:  0.8074596774193549
+-----EPOCH21-----
+Iteration: 520, Time: 1679.8959 s, training loss: 0.2938
+Epoch 21 done: validation_accuracy = 0.810
+-----EPOCH22-----
+Iteration: 540, Time: 1727.5002 s, training loss: 0.2821
+Epoch 22 done: validation_accuracy = 0.812
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_21
+test_acc on best model:  0.8069556451612904
+-----EPOCH23-----
+Iteration: 560, Time: 1798.0137 s, training loss: 0.2696
+Epoch 23 done: validation_accuracy = 0.815
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_22
+test_acc on best model:  0.8089717741935484
+-----EPOCH24-----
+Iteration: 580, Time: 1869.0038 s, training loss: 0.2642
+Iteration: 600, Time: 1912.6546 s, training loss: 0.2711
+Epoch 24 done: validation_accuracy = 0.815
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_23
+test_acc on best model:  0.8069556451612904
+-----EPOCH25-----
+Iteration: 620, Time: 1984.2450 s, training loss: 0.2513
+Epoch 25 done: validation_accuracy = 0.815
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_24
+test_acc on best model:  0.8059475806451613
+-----EPOCH26-----
+Iteration: 640, Time: 2055.4022 s, training loss: 0.2422
+Epoch 26 done: validation_accuracy = 0.820
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_25
+test_acc on best model:  0.8044354838709677
+-----EPOCH27-----
+Iteration: 660, Time: 2127.1170 s, training loss: 0.2324
+Epoch 27 done: validation_accuracy = 0.815
+-----EPOCH28-----
+Iteration: 680, Time: 2174.7062 s, training loss: 0.2253
+Iteration: 700, Time: 2218.2247 s, training loss: 0.2296
+Epoch 28 done: validation_accuracy = 0.812
+-----EPOCH29-----
+Iteration: 720, Time: 2265.7687 s, training loss: 0.2106
+Epoch 29 done: validation_accuracy = 0.815
+-----EPOCH30-----
+Iteration: 740, Time: 2314.0185 s, training loss: 0.2048
+Epoch 30 done: validation_accuracy = 0.820
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_29
+test_acc on best model:  0.7938508064516129
+-----EPOCH31-----
+Iteration: 760, Time: 2402.7237 s, training loss: 0.1987
+Epoch 31 done: validation_accuracy = 0.815
+-----EPOCH32-----
+Iteration: 780, Time: 2449.8969 s, training loss: 0.1905
+Iteration: 800, Time: 2494.0688 s, training loss: 0.1970
+Epoch 32 done: validation_accuracy = 0.815
+-----EPOCH33-----
+Iteration: 820, Time: 2541.6139 s, training loss: 0.1785
+Epoch 33 done: validation_accuracy = 0.815
+-----EPOCH34-----
+Iteration: 840, Time: 2589.0858 s, training loss: 0.1719
+Epoch 34 done: validation_accuracy = 0.818
+Validation is not improving. stopping training
+test accuracy =  0.7938508064516129
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 42.4109 s, training loss: 0.6916
+Epoch 1 done: validation_accuracy = 0.596
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.6018145161290323
+-----EPOCH2-----
+Iteration: 40, Time: 113.9262 s, training loss: 0.6878
+Epoch 2 done: validation_accuracy = 0.607
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6229838709677419
+-----EPOCH3-----
+Iteration: 60, Time: 185.9799 s, training loss: 0.6834
+Epoch 3 done: validation_accuracy = 0.617
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6214717741935484
+-----EPOCH4-----
+Iteration: 80, Time: 258.0345 s, training loss: 0.6779
+Iteration: 100, Time: 301.3736 s, training loss: 0.6709
+Epoch 4 done: validation_accuracy = 0.630
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6280241935483871
+-----EPOCH5-----
+Iteration: 120, Time: 373.2413 s, training loss: 0.6587
+Epoch 5 done: validation_accuracy = 0.641
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.6315524193548387
+-----EPOCH6-----
+Iteration: 140, Time: 445.1637 s, training loss: 0.6473
+Epoch 6 done: validation_accuracy = 0.651
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.6421370967741935
+-----EPOCH7-----
+Iteration: 160, Time: 516.7966 s, training loss: 0.6295
+Epoch 7 done: validation_accuracy = 0.674
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.6607862903225806
+-----EPOCH8-----
+Iteration: 180, Time: 588.7749 s, training loss: 0.6114
+Iteration: 200, Time: 632.2035 s, training loss: 0.5901
+Epoch 8 done: validation_accuracy = 0.688
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6738911290322581
+-----EPOCH9-----
+Iteration: 220, Time: 704.4047 s, training loss: 0.5647
+Epoch 9 done: validation_accuracy = 0.711
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6935483870967742
+-----EPOCH10-----
+Iteration: 240, Time: 776.2688 s, training loss: 0.5351
+Epoch 10 done: validation_accuracy = 0.716
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.7222782258064516
+-----EPOCH11-----
+Iteration: 260, Time: 848.1166 s, training loss: 0.5230
+Epoch 11 done: validation_accuracy = 0.737
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.7454637096774194
+-----EPOCH12-----
+Iteration: 280, Time: 920.1740 s, training loss: 0.4886
+Iteration: 300, Time: 963.5230 s, training loss: 0.4450
+Epoch 12 done: validation_accuracy = 0.758
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.7817540322580645
+-----EPOCH13-----
+Iteration: 320, Time: 1035.7887 s, training loss: 0.4185
+Epoch 13 done: validation_accuracy = 0.789
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.7988911290322581
+-----EPOCH14-----
+Iteration: 340, Time: 1107.4943 s, training loss: 0.3945
+Epoch 14 done: validation_accuracy = 0.779
+-----EPOCH15-----
+Iteration: 360, Time: 1154.9127 s, training loss: 0.3793
+Epoch 15 done: validation_accuracy = 0.786
+-----EPOCH16-----
+Iteration: 380, Time: 1202.0695 s, training loss: 0.3503
+Iteration: 400, Time: 1245.3420 s, training loss: 0.3516
+Epoch 16 done: validation_accuracy = 0.789
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_15
+test_acc on best model:  0.8089717741935484
+-----EPOCH17-----
+Iteration: 420, Time: 1316.7088 s, training loss: 0.3394
+Epoch 17 done: validation_accuracy = 0.797
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_16
+test_acc on best model:  0.8109879032258065
+-----EPOCH18-----
+Iteration: 440, Time: 1387.8667 s, training loss: 0.3224
+Epoch 18 done: validation_accuracy = 0.799
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.8165322580645161
+-----EPOCH19-----
+Iteration: 460, Time: 1459.7421 s, training loss: 0.3203
+Epoch 19 done: validation_accuracy = 0.805
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.8160282258064516
+-----EPOCH20-----
+Iteration: 480, Time: 1531.9369 s, training loss: 0.3033
+Iteration: 500, Time: 1575.2971 s, training loss: 0.3087
+Epoch 20 done: validation_accuracy = 0.818
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_19
+test_acc on best model:  0.8175403225806451
+-----EPOCH21-----
+Iteration: 520, Time: 1647.4136 s, training loss: 0.3018
+Epoch 21 done: validation_accuracy = 0.826
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_20
+test_acc on best model:  0.8190524193548387
+-----EPOCH22-----
+Iteration: 540, Time: 1719.3377 s, training loss: 0.2827
+Epoch 22 done: validation_accuracy = 0.833
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_21
+test_acc on best model:  0.8205645161290323
+-----EPOCH23-----
+Iteration: 560, Time: 1789.9455 s, training loss: 0.2825
+Epoch 23 done: validation_accuracy = 0.833
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_22
+test_acc on best model:  0.8215725806451613
+-----EPOCH24-----
+Iteration: 580, Time: 1861.5417 s, training loss: 0.2609
+Iteration: 600, Time: 1904.9852 s, training loss: 0.2791
+Epoch 24 done: validation_accuracy = 0.831
+-----EPOCH25-----
+Iteration: 620, Time: 1952.3450 s, training loss: 0.2675
+Epoch 25 done: validation_accuracy = 0.833
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_24
+test_acc on best model:  0.8245967741935484
+-----EPOCH26-----
+Iteration: 640, Time: 2023.6940 s, training loss: 0.2501
+Epoch 26 done: validation_accuracy = 0.839
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_25
+test_acc on best model:  0.8235887096774194
+-----EPOCH27-----
+Iteration: 660, Time: 2094.7435 s, training loss: 0.2501
+Epoch 27 done: validation_accuracy = 0.844
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_26
+test_acc on best model:  0.8215725806451613
+-----EPOCH28-----
+Iteration: 680, Time: 2186.0565 s, training loss: 0.2292
+Iteration: 700, Time: 2229.2876 s, training loss: 0.2461
+Epoch 28 done: validation_accuracy = 0.839
+-----EPOCH29-----
+Iteration: 720, Time: 2277.0578 s, training loss: 0.2361
+Epoch 29 done: validation_accuracy = 0.839
+-----EPOCH30-----
+Iteration: 740, Time: 2324.8486 s, training loss: 0.2199
+Epoch 30 done: validation_accuracy = 0.839
+-----EPOCH31-----
+Iteration: 760, Time: 2372.7416 s, training loss: 0.2216
+Epoch 31 done: validation_accuracy = 0.828
+Validation is not improving. stopping training
+test accuracy =  0.8215725806451613
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 20.1612 s, training loss: 0.6909
+Iteration: 40, Time: 40.3628 s, training loss: 0.6929
+Iteration: 60, Time: 60.5646 s, training loss: 0.6871
+Iteration: 80, Time: 80.7098 s, training loss: 0.6827
+Iteration: 100, Time: 100.8745 s, training loss: 0.6831
+Epoch 1 done: validation_accuracy = 0.608
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.6085
+-----EPOCH2-----
+Iteration: 120, Time: 172.5008 s, training loss: 0.6715
+Iteration: 140, Time: 192.6617 s, training loss: 0.6742
+Iteration: 160, Time: 212.8097 s, training loss: 0.6662
+Iteration: 180, Time: 233.0117 s, training loss: 0.6562
+Iteration: 200, Time: 253.1939 s, training loss: 0.6592
+Epoch 2 done: validation_accuracy = 0.623
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.629
+-----EPOCH3-----
+Iteration: 220, Time: 324.9526 s, training loss: 0.6416
+Iteration: 240, Time: 345.2039 s, training loss: 0.6428
+Iteration: 260, Time: 365.3505 s, training loss: 0.6285
+Iteration: 280, Time: 385.5186 s, training loss: 0.6174
+Iteration: 300, Time: 405.6905 s, training loss: 0.6243
+Epoch 3 done: validation_accuracy = 0.672
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.656
+-----EPOCH4-----
+Iteration: 320, Time: 477.9981 s, training loss: 0.5956
+Iteration: 340, Time: 498.1943 s, training loss: 0.5856
+Iteration: 360, Time: 518.3616 s, training loss: 0.5692
+Iteration: 380, Time: 538.5217 s, training loss: 0.5811
+Iteration: 400, Time: 558.6550 s, training loss: 0.5658
+Epoch 4 done: validation_accuracy = 0.700
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.694
+-----EPOCH5-----
+Iteration: 420, Time: 630.7438 s, training loss: 0.5352
+Iteration: 440, Time: 650.9281 s, training loss: 0.4964
+Iteration: 460, Time: 671.1435 s, training loss: 0.4768
+Iteration: 480, Time: 691.3319 s, training loss: 0.5198
+Iteration: 500, Time: 711.4887 s, training loss: 0.4474
+Epoch 5 done: validation_accuracy = 0.740
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.76
+-----EPOCH6-----
+Iteration: 520, Time: 783.2858 s, training loss: 0.4446
+Iteration: 540, Time: 803.4497 s, training loss: 0.4236
+Iteration: 560, Time: 823.6272 s, training loss: 0.3996
+Iteration: 580, Time: 843.8264 s, training loss: 0.4223
+Iteration: 600, Time: 864.0499 s, training loss: 0.4046
+Epoch 6 done: validation_accuracy = 0.752
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.781
+-----EPOCH7-----
+Iteration: 620, Time: 936.2718 s, training loss: 0.3713
+Iteration: 640, Time: 956.4507 s, training loss: 0.4055
+Iteration: 660, Time: 976.6807 s, training loss: 0.3788
+Iteration: 680, Time: 996.8483 s, training loss: 0.3718
+Iteration: 700, Time: 1016.9964 s, training loss: 0.3990
+Epoch 7 done: validation_accuracy = 0.750
+-----EPOCH8-----
+Iteration: 720, Time: 1044.0373 s, training loss: 0.3527
+Iteration: 740, Time: 1064.2505 s, training loss: 0.3767
+Iteration: 760, Time: 1084.4350 s, training loss: 0.3588
+Iteration: 780, Time: 1104.6268 s, training loss: 0.3420
+Iteration: 800, Time: 1124.8424 s, training loss: 0.3704
+Epoch 8 done: validation_accuracy = 0.767
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.7895
+-----EPOCH9-----
+Iteration: 820, Time: 1197.1838 s, training loss: 0.3144
+Iteration: 840, Time: 1217.3759 s, training loss: 0.3460
+Iteration: 860, Time: 1237.5762 s, training loss: 0.3321
+Iteration: 880, Time: 1257.7366 s, training loss: 0.3134
+Iteration: 900, Time: 1277.9511 s, training loss: 0.3183
+Epoch 9 done: validation_accuracy = 0.775
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.8035
+-----EPOCH10-----
+Iteration: 920, Time: 1350.1094 s, training loss: 0.2670
+Iteration: 940, Time: 1370.3420 s, training loss: 0.3321
+Iteration: 960, Time: 1390.5216 s, training loss: 0.3138
+Iteration: 980, Time: 1410.6999 s, training loss: 0.2875
+Iteration: 1000, Time: 1430.8964 s, training loss: 0.2822
+Epoch 10 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.812
+-----EPOCH11-----
+Iteration: 1020, Time: 1502.9492 s, training loss: 0.2360
+Iteration: 1040, Time: 1523.1153 s, training loss: 0.2954
+Iteration: 1060, Time: 1543.3269 s, training loss: 0.2946
+Iteration: 1080, Time: 1563.5451 s, training loss: 0.2658
+Iteration: 1100, Time: 1583.7576 s, training loss: 0.2425
+Epoch 11 done: validation_accuracy = 0.812
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.817
+-----EPOCH12-----
+Iteration: 1120, Time: 1655.9259 s, training loss: 0.2065
+Iteration: 1140, Time: 1676.1388 s, training loss: 0.2678
+Iteration: 1160, Time: 1696.2929 s, training loss: 0.2737
+Iteration: 1180, Time: 1716.5001 s, training loss: 0.2474
+Iteration: 1200, Time: 1736.7092 s, training loss: 0.2045
+Epoch 12 done: validation_accuracy = 0.818
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.8145
+-----EPOCH13-----
+Iteration: 1220, Time: 1808.8234 s, training loss: 0.1846
+Iteration: 1240, Time: 1829.0061 s, training loss: 0.2439
+Iteration: 1260, Time: 1849.2147 s, training loss: 0.2590
+Iteration: 1280, Time: 1869.3887 s, training loss: 0.2329
+Iteration: 1300, Time: 1889.5869 s, training loss: 0.1830
+Epoch 13 done: validation_accuracy = 0.818
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.8135
+-----EPOCH14-----
+Iteration: 1320, Time: 1961.7072 s, training loss: 0.1671
+Iteration: 1340, Time: 1981.9219 s, training loss: 0.2324
+Iteration: 1360, Time: 2002.0141 s, training loss: 0.2470
+Iteration: 1380, Time: 2022.0843 s, training loss: 0.2195
+Iteration: 1400, Time: 2042.2655 s, training loss: 0.1664
+Epoch 14 done: validation_accuracy = 0.828
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.8155
+-----EPOCH15-----
+Iteration: 1420, Time: 2114.5963 s, training loss: 0.1570
+Iteration: 1440, Time: 2134.8207 s, training loss: 0.2274
+Iteration: 1460, Time: 2155.0057 s, training loss: 0.2248
+Iteration: 1480, Time: 2175.2060 s, training loss: 0.2069
+Iteration: 1500, Time: 2195.4167 s, training loss: 0.1524
+Epoch 15 done: validation_accuracy = 0.825
+-----EPOCH16-----
+Iteration: 1520, Time: 2222.4288 s, training loss: 0.1422
+Iteration: 1540, Time: 2242.5686 s, training loss: 0.2073
+Iteration: 1560, Time: 2262.6794 s, training loss: 0.2060
+Iteration: 1580, Time: 2282.8421 s, training loss: 0.1931
+Iteration: 1600, Time: 2302.9593 s, training loss: 0.1249
+Epoch 16 done: validation_accuracy = 0.818
+-----EPOCH17-----
+Iteration: 1620, Time: 2330.0638 s, training loss: 0.1325
+Iteration: 1640, Time: 2350.3492 s, training loss: 0.1671
+Iteration: 1660, Time: 2370.5652 s, training loss: 0.1805
+Iteration: 1680, Time: 2390.8439 s, training loss: 0.1706
+Iteration: 1700, Time: 2411.1171 s, training loss: 0.0962
+Epoch 17 done: validation_accuracy = 0.825
+-----EPOCH18-----
+Iteration: 1720, Time: 2438.2146 s, training loss: 0.1309
+Iteration: 1740, Time: 2458.4494 s, training loss: 0.1370
+Iteration: 1760, Time: 2478.7158 s, training loss: 0.1593
+Iteration: 1780, Time: 2498.9489 s, training loss: 0.1514
+Iteration: 1800, Time: 2519.1731 s, training loss: 0.0887
+Epoch 18 done: validation_accuracy = 0.797
+Validation is not improving. stopping training
+test accuracy =  0.8155
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+-----EPOCH1-----
+Iteration: 20, Time: 26.8499 s, training loss: 0.6968
+Iteration: 40, Time: 53.6697 s, training loss: 0.6918
+Epoch 1 done: validation_accuracy = 0.503
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5403225806451613
+-----EPOCH2-----
+Iteration: 60, Time: 111.5764 s, training loss: 0.6882
+Iteration: 80, Time: 138.3827 s, training loss: 0.6851
+Iteration: 100, Time: 165.2268 s, training loss: 0.6627
+Epoch 2 done: validation_accuracy = 0.604
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6169354838709677
+-----EPOCH3-----
+Iteration: 120, Time: 223.4744 s, training loss: 0.6668
+Iteration: 140, Time: 250.2999 s, training loss: 0.6586
+Epoch 3 done: validation_accuracy = 0.609
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6290322580645161
+-----EPOCH4-----
+Iteration: 160, Time: 308.7104 s, training loss: 0.6378
+Iteration: 180, Time: 335.6587 s, training loss: 0.6406
+Iteration: 200, Time: 362.5157 s, training loss: 0.6189
+Epoch 4 done: validation_accuracy = 0.625
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6456653225806451
+-----EPOCH5-----
+Iteration: 220, Time: 420.8648 s, training loss: 0.6124
+Iteration: 240, Time: 447.7969 s, training loss: 0.6120
+Epoch 5 done: validation_accuracy = 0.656
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.6764112903225806
+-----EPOCH6-----
+Iteration: 260, Time: 506.2148 s, training loss: 0.5780
+Iteration: 280, Time: 533.0734 s, training loss: 0.5758
+Iteration: 300, Time: 559.9664 s, training loss: 0.5703
+Epoch 6 done: validation_accuracy = 0.654
+-----EPOCH7-----
+Iteration: 320, Time: 591.0992 s, training loss: 0.5683
+Iteration: 340, Time: 617.9988 s, training loss: 0.5106
+Epoch 7 done: validation_accuracy = 0.682
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.6975806451612904
+-----EPOCH8-----
+Iteration: 360, Time: 676.3586 s, training loss: 0.5245
+Iteration: 380, Time: 703.2223 s, training loss: 0.5227
+Iteration: 400, Time: 730.0987 s, training loss: 0.4780
+Epoch 8 done: validation_accuracy = 0.714
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.7152217741935484
+-----EPOCH9-----
+Iteration: 420, Time: 788.4564 s, training loss: 0.5136
+Iteration: 440, Time: 815.3123 s, training loss: 0.4901
+Epoch 9 done: validation_accuracy = 0.714
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.7182459677419355
+-----EPOCH10-----
+Iteration: 460, Time: 873.7205 s, training loss: 0.4763
+Iteration: 480, Time: 900.6903 s, training loss: 0.5323
+Iteration: 500, Time: 927.5506 s, training loss: 0.4498
+Epoch 10 done: validation_accuracy = 0.734
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.7444556451612904
+-----EPOCH11-----
+Iteration: 520, Time: 985.8902 s, training loss: 0.4883
+Iteration: 540, Time: 1012.8303 s, training loss: 0.4346
+Epoch 11 done: validation_accuracy = 0.729
+-----EPOCH12-----
+Iteration: 560, Time: 1043.9072 s, training loss: 0.4335
+Iteration: 580, Time: 1070.8266 s, training loss: 0.4888
+Iteration: 600, Time: 1097.7285 s, training loss: 0.4161
+Epoch 12 done: validation_accuracy = 0.724
+-----EPOCH13-----
+Iteration: 620, Time: 1128.8545 s, training loss: 0.4703
+Iteration: 640, Time: 1155.7545 s, training loss: 0.4634
+Epoch 13 done: validation_accuracy = 0.729
+-----EPOCH14-----
+Iteration: 660, Time: 1186.8984 s, training loss: 0.4196
+Iteration: 680, Time: 1213.7496 s, training loss: 0.4721
+Iteration: 700, Time: 1240.5788 s, training loss: 0.3579
+Epoch 14 done: validation_accuracy = 0.745
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.7580645161290323
+-----EPOCH15-----
+Iteration: 720, Time: 1318.1391 s, training loss: 0.4268
+Iteration: 740, Time: 1344.9810 s, training loss: 0.3785
+Epoch 15 done: validation_accuracy = 0.727
+-----EPOCH16-----
+Iteration: 760, Time: 1376.0014 s, training loss: 0.3614
+Iteration: 780, Time: 1402.9553 s, training loss: 0.4032
+Iteration: 800, Time: 1429.7704 s, training loss: 0.3379
+Epoch 16 done: validation_accuracy = 0.727
+-----EPOCH17-----
+Iteration: 820, Time: 1460.8981 s, training loss: 0.4024
+Iteration: 840, Time: 1487.8521 s, training loss: 0.3882
+Epoch 17 done: validation_accuracy = 0.732
+-----EPOCH18-----
+Iteration: 860, Time: 1519.0048 s, training loss: 0.3544
+Iteration: 880, Time: 1545.8528 s, training loss: 0.4369
+Iteration: 900, Time: 1572.7473 s, training loss: 0.3746
+Epoch 18 done: validation_accuracy = 0.745
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.7530241935483871
+-----EPOCH19-----
+Iteration: 920, Time: 1631.1813 s, training loss: 0.3769
+Iteration: 940, Time: 1658.0662 s, training loss: 0.3108
+Epoch 19 done: validation_accuracy = 0.737
+-----EPOCH20-----
+Iteration: 960, Time: 1689.2146 s, training loss: 0.2999
+Iteration: 980, Time: 1716.1023 s, training loss: 0.3385
+Iteration: 1000, Time: 1742.9711 s, training loss: 0.2716
+Epoch 20 done: validation_accuracy = 0.742
+-----EPOCH21-----
+Iteration: 1020, Time: 1774.1598 s, training loss: 0.3383
+Iteration: 1040, Time: 1801.0340 s, training loss: 0.2974
+Epoch 21 done: validation_accuracy = 0.727
+-----EPOCH22-----
+Iteration: 1060, Time: 1832.1194 s, training loss: 0.2674
+Iteration: 1080, Time: 1859.0804 s, training loss: 0.3617
+Iteration: 1100, Time: 1885.8275 s, training loss: 0.2865
+Epoch 22 done: validation_accuracy = 0.721
+Validation is not improving. stopping training
+test accuracy =  0.7530241935483871
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 20.9631 s, training loss: 0.6941
+Iteration: 40, Time: 41.9802 s, training loss: 0.6947
+Iteration: 60, Time: 63.0008 s, training loss: 0.6927
+Iteration: 80, Time: 83.9618 s, training loss: 0.6922
+Iteration: 100, Time: 104.9168 s, training loss: 0.6922
+Epoch 1 done: validation_accuracy = 0.527
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5495
+-----EPOCH2-----
+Iteration: 120, Time: 173.3907 s, training loss: 0.6880
+Iteration: 140, Time: 194.3850 s, training loss: 0.6893
+Iteration: 160, Time: 215.3717 s, training loss: 0.6887
+Iteration: 180, Time: 236.3519 s, training loss: 0.6864
+Iteration: 200, Time: 257.3029 s, training loss: 0.6864
+Epoch 2 done: validation_accuracy = 0.542
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.5455
+-----EPOCH3-----
+Iteration: 220, Time: 325.7735 s, training loss: 0.6823
+Iteration: 240, Time: 346.7796 s, training loss: 0.6838
+Iteration: 260, Time: 367.7128 s, training loss: 0.6832
+Iteration: 280, Time: 388.6750 s, training loss: 0.6781
+Iteration: 300, Time: 409.6636 s, training loss: 0.6781
+Epoch 3 done: validation_accuracy = 0.555
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.5465
+-----EPOCH4-----
+Iteration: 320, Time: 478.6382 s, training loss: 0.6736
+Iteration: 340, Time: 499.6190 s, training loss: 0.6755
+Iteration: 360, Time: 520.6083 s, training loss: 0.6749
+Iteration: 380, Time: 541.5772 s, training loss: 0.6656
+Iteration: 400, Time: 562.5364 s, training loss: 0.6657
+Epoch 4 done: validation_accuracy = 0.560
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.5555
+-----EPOCH5-----
+Iteration: 420, Time: 631.3876 s, training loss: 0.6606
+Iteration: 440, Time: 652.3843 s, training loss: 0.6625
+Iteration: 460, Time: 673.3778 s, training loss: 0.6629
+Iteration: 480, Time: 694.3529 s, training loss: 0.6487
+Iteration: 500, Time: 715.2992 s, training loss: 0.6486
+Epoch 5 done: validation_accuracy = 0.570
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.5595
+-----EPOCH6-----
+Iteration: 520, Time: 784.0615 s, training loss: 0.6423
+Iteration: 540, Time: 805.0825 s, training loss: 0.6422
+Iteration: 560, Time: 826.0389 s, training loss: 0.6461
+Iteration: 580, Time: 847.0064 s, training loss: 0.6287
+Iteration: 600, Time: 867.9609 s, training loss: 0.6258
+Epoch 6 done: validation_accuracy = 0.578
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.578
+-----EPOCH7-----
+Iteration: 620, Time: 936.9282 s, training loss: 0.6165
+Iteration: 640, Time: 957.8936 s, training loss: 0.6091
+Iteration: 660, Time: 978.8711 s, training loss: 0.6206
+Iteration: 680, Time: 999.8294 s, training loss: 0.6053
+Iteration: 700, Time: 1020.7578 s, training loss: 0.5934
+Epoch 7 done: validation_accuracy = 0.598
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.5975
+-----EPOCH8-----
+Iteration: 720, Time: 1089.6902 s, training loss: 0.5827
+Iteration: 740, Time: 1110.6346 s, training loss: 0.5595
+Iteration: 760, Time: 1131.6017 s, training loss: 0.5874
+Iteration: 780, Time: 1152.5876 s, training loss: 0.5803
+Iteration: 800, Time: 1173.5595 s, training loss: 0.5555
+Epoch 8 done: validation_accuracy = 0.615
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6215
+-----EPOCH9-----
+Iteration: 820, Time: 1242.0227 s, training loss: 0.5484
+Iteration: 840, Time: 1263.0235 s, training loss: 0.5150
+Iteration: 860, Time: 1284.0106 s, training loss: 0.5571
+Iteration: 880, Time: 1304.9751 s, training loss: 0.5517
+Iteration: 900, Time: 1325.9304 s, training loss: 0.5175
+Epoch 9 done: validation_accuracy = 0.618
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6405
+-----EPOCH10-----
+Iteration: 920, Time: 1394.8972 s, training loss: 0.5103
+Iteration: 940, Time: 1415.8731 s, training loss: 0.4864
+Iteration: 960, Time: 1436.8359 s, training loss: 0.5238
+Iteration: 980, Time: 1457.7576 s, training loss: 0.5182
+Iteration: 1000, Time: 1478.7063 s, training loss: 0.4806
+Epoch 10 done: validation_accuracy = 0.635
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.655
+-----EPOCH11-----
+Iteration: 1020, Time: 1547.5241 s, training loss: 0.4768
+Iteration: 1040, Time: 1568.5094 s, training loss: 0.4506
+Iteration: 1060, Time: 1589.5290 s, training loss: 0.4893
+Iteration: 1080, Time: 1610.5652 s, training loss: 0.4699
+Iteration: 1100, Time: 1631.5498 s, training loss: 0.4822
+Epoch 11 done: validation_accuracy = 0.620
+-----EPOCH12-----
+Iteration: 1120, Time: 1659.2213 s, training loss: 0.4499
+Iteration: 1140, Time: 1680.1412 s, training loss: 0.4230
+Iteration: 1160, Time: 1701.0915 s, training loss: 0.4540
+Iteration: 1180, Time: 1722.0163 s, training loss: 0.4380
+Iteration: 1200, Time: 1742.9361 s, training loss: 0.4257
+Epoch 12 done: validation_accuracy = 0.680
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.6675
+-----EPOCH13-----
+Iteration: 1220, Time: 1811.4498 s, training loss: 0.4240
+Iteration: 1240, Time: 1832.3350 s, training loss: 0.4027
+Iteration: 1260, Time: 1853.1880 s, training loss: 0.4242
+Iteration: 1280, Time: 1874.1142 s, training loss: 0.4004
+Iteration: 1300, Time: 1895.0330 s, training loss: 0.3929
+Epoch 13 done: validation_accuracy = 0.685
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.6755
+-----EPOCH14-----
+Iteration: 1320, Time: 1964.1388 s, training loss: 0.3982
+Iteration: 1340, Time: 1985.0900 s, training loss: 0.3846
+Iteration: 1360, Time: 2006.0178 s, training loss: 0.3958
+Iteration: 1380, Time: 2026.9995 s, training loss: 0.3669
+Iteration: 1400, Time: 2047.9362 s, training loss: 0.3631
+Epoch 14 done: validation_accuracy = 0.693
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.672
+-----EPOCH15-----
+Iteration: 1420, Time: 2116.3550 s, training loss: 0.3749
+Iteration: 1440, Time: 2137.2588 s, training loss: 0.3677
+Iteration: 1460, Time: 2158.2161 s, training loss: 0.3700
+Iteration: 1480, Time: 2179.0914 s, training loss: 0.3370
+Iteration: 1500, Time: 2200.0558 s, training loss: 0.3645
+Epoch 15 done: validation_accuracy = 0.630
+-----EPOCH16-----
+Iteration: 1520, Time: 2227.7599 s, training loss: 0.5464
+Iteration: 1540, Time: 2248.6660 s, training loss: 0.4275
+Iteration: 1560, Time: 2269.5839 s, training loss: 0.4071
+Iteration: 1580, Time: 2290.4897 s, training loss: 0.4166
+Iteration: 1600, Time: 2311.3791 s, training loss: 0.3811
+Epoch 16 done: validation_accuracy = 0.610
+-----EPOCH17-----
+Iteration: 1620, Time: 2339.2318 s, training loss: 0.3629
+Iteration: 1640, Time: 2360.2777 s, training loss: 0.3593
+Iteration: 1660, Time: 2381.2541 s, training loss: 0.3555
+Iteration: 1680, Time: 2402.2412 s, training loss: 0.3584
+Iteration: 1700, Time: 2423.2255 s, training loss: 0.3358
+Epoch 17 done: validation_accuracy = 0.620
+-----EPOCH18-----
+Iteration: 1720, Time: 2451.0481 s, training loss: 0.3252
+Iteration: 1740, Time: 2472.0363 s, training loss: 0.3268
+Iteration: 1760, Time: 2493.0247 s, training loss: 0.3240
+Iteration: 1780, Time: 2514.0455 s, training loss: 0.3170
+Iteration: 1800, Time: 2535.0235 s, training loss: 0.3036
+Epoch 18 done: validation_accuracy = 0.637
+Validation is not improving. stopping training
+test accuracy =  0.672
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 42.3899 s, training loss: 0.6920
+Epoch 1 done: validation_accuracy = 0.560
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5715725806451613
+-----EPOCH2-----
+Iteration: 40, Time: 113.7436 s, training loss: 0.6873
+Epoch 2 done: validation_accuracy = 0.573
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6043346774193549
+-----EPOCH3-----
+Iteration: 60, Time: 185.6236 s, training loss: 0.6832
+Epoch 3 done: validation_accuracy = 0.576
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6108870967741935
+-----EPOCH4-----
+Iteration: 80, Time: 257.3665 s, training loss: 0.6779
+Epoch 4 done: validation_accuracy = 0.578
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6174395161290323
+-----EPOCH5-----
+Iteration: 100, Time: 329.2592 s, training loss: 0.6727
+Iteration: 120, Time: 372.6889 s, training loss: 0.6628
+Epoch 5 done: validation_accuracy = 0.578
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.6209677419354839
+-----EPOCH6-----
+Iteration: 140, Time: 444.4596 s, training loss: 0.6482
+Epoch 6 done: validation_accuracy = 0.591
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.6300403225806451
+-----EPOCH7-----
+Iteration: 160, Time: 516.5356 s, training loss: 0.6386
+Epoch 7 done: validation_accuracy = 0.596
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.6285282258064516
+-----EPOCH8-----
+Iteration: 180, Time: 588.5497 s, training loss: 0.6218
+Epoch 8 done: validation_accuracy = 0.594
+-----EPOCH9-----
+Iteration: 200, Time: 636.0053 s, training loss: 0.6084
+Epoch 9 done: validation_accuracy = 0.599
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6335685483870968
+-----EPOCH10-----
+Iteration: 220, Time: 707.7396 s, training loss: 0.5906
+Iteration: 240, Time: 751.0585 s, training loss: 0.5516
+Epoch 10 done: validation_accuracy = 0.643
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.6703629032258065
+-----EPOCH11-----
+Iteration: 260, Time: 822.7855 s, training loss: 0.5080
+Epoch 11 done: validation_accuracy = 0.695
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.7167338709677419
+-----EPOCH12-----
+Iteration: 280, Time: 894.6991 s, training loss: 0.4869
+Epoch 12 done: validation_accuracy = 0.737
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.7394153225806451
+-----EPOCH13-----
+Iteration: 300, Time: 966.4919 s, training loss: 0.4656
+Epoch 13 done: validation_accuracy = 0.758
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.7530241935483871
+-----EPOCH14-----
+Iteration: 320, Time: 1038.4998 s, training loss: 0.4389
+Epoch 14 done: validation_accuracy = 0.763
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.7585685483870968
+-----EPOCH15-----
+Iteration: 340, Time: 1127.5523 s, training loss: 0.4263
+Iteration: 360, Time: 1170.5420 s, training loss: 0.3820
+Epoch 15 done: validation_accuracy = 0.776
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_14
+test_acc on best model:  0.7817540322580645
+-----EPOCH16-----
+Iteration: 380, Time: 1242.6114 s, training loss: 0.3919
+Epoch 16 done: validation_accuracy = 0.776
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_15
+test_acc on best model:  0.7787298387096774
+-----EPOCH17-----
+Iteration: 400, Time: 1314.5484 s, training loss: 0.3770
+Epoch 17 done: validation_accuracy = 0.786
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_16
+test_acc on best model:  0.7908266129032258
+-----EPOCH18-----
+Iteration: 420, Time: 1386.6496 s, training loss: 0.3545
+Epoch 18 done: validation_accuracy = 0.797
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.7893145161290323
+-----EPOCH19-----
+Iteration: 440, Time: 1467.8217 s, training loss: 0.3431
+Epoch 19 done: validation_accuracy = 0.805
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.7948588709677419
+-----EPOCH20-----
+Iteration: 460, Time: 1539.8765 s, training loss: 0.3281
+Iteration: 480, Time: 1583.6112 s, training loss: 0.3085
+Epoch 20 done: validation_accuracy = 0.805
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_19
+test_acc on best model:  0.7953629032258065
+-----EPOCH21-----
+Iteration: 500, Time: 1655.9946 s, training loss: 0.3195
+Epoch 21 done: validation_accuracy = 0.792
+-----EPOCH22-----
+Iteration: 520, Time: 1703.8274 s, training loss: 0.3112
+Epoch 22 done: validation_accuracy = 0.797
+-----EPOCH23-----
+Iteration: 540, Time: 1751.5687 s, training loss: 0.2956
+Epoch 23 done: validation_accuracy = 0.799
+-----EPOCH24-----
+Iteration: 560, Time: 1799.1887 s, training loss: 0.2895
+Epoch 24 done: validation_accuracy = 0.802
+Validation is not improving. stopping training
+test accuracy =  0.7953629032258065
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 35.5328 s, training loss: 0.6911
+Epoch 1 done: validation_accuracy = 0.583
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5802845528455284
+-----EPOCH2-----
+Iteration: 40, Time: 102.4423 s, training loss: 0.6906
+Iteration: 60, Time: 138.6139 s, training loss: 0.6854
+Epoch 2 done: validation_accuracy = 0.596
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6260162601626018
+-----EPOCH3-----
+Iteration: 80, Time: 207.2302 s, training loss: 0.6824
+Epoch 3 done: validation_accuracy = 0.596
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6229674796747967
+-----EPOCH4-----
+Iteration: 100, Time: 274.7941 s, training loss: 0.6806
+Iteration: 120, Time: 311.0074 s, training loss: 0.6693
+Epoch 4 done: validation_accuracy = 0.604
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6290650406504066
+-----EPOCH5-----
+Iteration: 140, Time: 379.4462 s, training loss: 0.6686
+Iteration: 160, Time: 415.4841 s, training loss: 0.6517
+Epoch 5 done: validation_accuracy = 0.609
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.629573170731707
+-----EPOCH6-----
+Iteration: 180, Time: 484.1164 s, training loss: 0.6448
+Epoch 6 done: validation_accuracy = 0.625
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.6356707317073169
+-----EPOCH7-----
+Iteration: 200, Time: 551.7262 s, training loss: 0.6363
+Iteration: 220, Time: 587.9374 s, training loss: 0.6103
+Epoch 7 done: validation_accuracy = 0.625
+-----EPOCH8-----
+Iteration: 240, Time: 628.9511 s, training loss: 0.6061
+Iteration: 260, Time: 665.2091 s, training loss: 0.5595
+Epoch 8 done: validation_accuracy = 0.651
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6793699186991871
+-----EPOCH9-----
+Iteration: 280, Time: 732.8603 s, training loss: 0.5321
+Epoch 9 done: validation_accuracy = 0.721
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.7281504065040649
+-----EPOCH10-----
+Iteration: 300, Time: 801.4709 s, training loss: 0.4985
+Iteration: 320, Time: 837.5907 s, training loss: 0.4730
+Epoch 10 done: validation_accuracy = 0.768
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.7672764227642277
+-----EPOCH11-----
+Iteration: 340, Time: 905.7890 s, training loss: 0.4527
+Iteration: 360, Time: 942.0455 s, training loss: 0.3982
+Epoch 11 done: validation_accuracy = 0.766
+-----EPOCH12-----
+Iteration: 380, Time: 983.0121 s, training loss: 0.4349
+Epoch 12 done: validation_accuracy = 0.745
+-----EPOCH13-----
+Iteration: 400, Time: 1023.9872 s, training loss: 0.4307
+Iteration: 420, Time: 1060.3351 s, training loss: 0.4107
+Epoch 13 done: validation_accuracy = 0.789
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.7936991869918697
+-----EPOCH14-----
+Iteration: 440, Time: 1128.0705 s, training loss: 0.3701
+Iteration: 460, Time: 1164.2673 s, training loss: 0.3544
+Epoch 14 done: validation_accuracy = 0.768
+-----EPOCH15-----
+Iteration: 480, Time: 1205.1764 s, training loss: 0.3886
+Epoch 15 done: validation_accuracy = 0.786
+-----EPOCH16-----
+Iteration: 500, Time: 1246.0575 s, training loss: 0.3618
+Iteration: 520, Time: 1282.2177 s, training loss: 0.3348
+Epoch 16 done: validation_accuracy = 0.781
+-----EPOCH17-----
+Iteration: 540, Time: 1323.2436 s, training loss: 0.3460
+Iteration: 560, Time: 1359.4872 s, training loss: 0.3214
+Epoch 17 done: validation_accuracy = 0.805
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_16
+test_acc on best model:  0.8038617886178863
+-----EPOCH18-----
+Iteration: 580, Time: 1427.1048 s, training loss: 0.3330
+Epoch 18 done: validation_accuracy = 0.823
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.809959349593496
+-----EPOCH19-----
+Iteration: 600, Time: 1495.4194 s, training loss: 0.3174
+Iteration: 620, Time: 1531.5618 s, training loss: 0.2974
+Epoch 19 done: validation_accuracy = 0.823
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.8043699186991873
+-----EPOCH20-----
+Iteration: 640, Time: 1600.0842 s, training loss: 0.3094
+Iteration: 660, Time: 1636.3234 s, training loss: 0.2928
+Epoch 20 done: validation_accuracy = 0.820
+-----EPOCH21-----
+Iteration: 680, Time: 1677.1674 s, training loss: 0.2892
+Epoch 21 done: validation_accuracy = 0.828
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_20
+test_acc on best model:  0.8099593495934958
+-----EPOCH22-----
+Iteration: 700, Time: 1745.8815 s, training loss: 0.2944
+Iteration: 720, Time: 1782.0014 s, training loss: 0.2758
+Epoch 22 done: validation_accuracy = 0.823
+-----EPOCH23-----
+Iteration: 740, Time: 1823.0243 s, training loss: 0.3062
+Epoch 23 done: validation_accuracy = 0.789
+-----EPOCH24-----
+Iteration: 760, Time: 1864.0277 s, training loss: 0.3033
+Iteration: 780, Time: 1900.1871 s, training loss: 0.2839
+Epoch 24 done: validation_accuracy = 0.794
+-----EPOCH25-----
+Iteration: 800, Time: 1941.1668 s, training loss: 0.2747
+Iteration: 820, Time: 1977.3162 s, training loss: 0.2764
+Epoch 25 done: validation_accuracy = 0.818
+Validation is not improving. stopping training
+test accuracy =  0.8099593495934958
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 20.1383 s, training loss: 0.6940
+Iteration: 40, Time: 40.3320 s, training loss: 0.6915
+Iteration: 60, Time: 60.5546 s, training loss: 0.6874
+Iteration: 80, Time: 80.7465 s, training loss: 0.6905
+Epoch 1 done: validation_accuracy = 0.544
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.555
+-----EPOCH2-----
+Iteration: 100, Time: 152.7046 s, training loss: 0.6911
+Iteration: 120, Time: 172.9390 s, training loss: 0.6818
+Iteration: 140, Time: 193.1693 s, training loss: 0.6750
+Iteration: 160, Time: 213.3826 s, training loss: 0.6704
+Iteration: 180, Time: 233.6522 s, training loss: 0.6761
+Epoch 2 done: validation_accuracy = 0.589
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.609
+-----EPOCH3-----
+Iteration: 200, Time: 305.3189 s, training loss: 0.6825
+Iteration: 220, Time: 325.4707 s, training loss: 0.6649
+Iteration: 240, Time: 345.5805 s, training loss: 0.6471
+Iteration: 260, Time: 365.7432 s, training loss: 0.6463
+Iteration: 280, Time: 385.8696 s, training loss: 0.6475
+Epoch 3 done: validation_accuracy = 0.591
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6235
+-----EPOCH4-----
+Iteration: 300, Time: 458.2725 s, training loss: 0.6677
+Iteration: 320, Time: 478.4204 s, training loss: 0.6400
+Iteration: 340, Time: 498.5493 s, training loss: 0.6012
+Iteration: 360, Time: 518.7278 s, training loss: 0.6106
+Iteration: 380, Time: 538.8990 s, training loss: 0.6077
+Epoch 4 done: validation_accuracy = 0.615
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6375
+-----EPOCH5-----
+Iteration: 400, Time: 611.0298 s, training loss: 0.6176
+Iteration: 420, Time: 631.2041 s, training loss: 0.5779
+Iteration: 440, Time: 651.4025 s, training loss: 0.5321
+Iteration: 460, Time: 671.6044 s, training loss: 0.5628
+Iteration: 480, Time: 691.7765 s, training loss: 0.5145
+Epoch 5 done: validation_accuracy = 0.677
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.701
+-----EPOCH6-----
+Iteration: 500, Time: 763.8068 s, training loss: 0.5101
+Iteration: 520, Time: 783.9859 s, training loss: 0.5259
+Iteration: 540, Time: 804.1805 s, training loss: 0.4577
+Iteration: 560, Time: 824.2787 s, training loss: 0.4691
+Iteration: 580, Time: 844.5052 s, training loss: 0.4324
+Epoch 6 done: validation_accuracy = 0.750
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.751
+-----EPOCH7-----
+Iteration: 600, Time: 916.8805 s, training loss: 0.4171
+Iteration: 620, Time: 937.0856 s, training loss: 0.4793
+Iteration: 640, Time: 957.3190 s, training loss: 0.3890
+Iteration: 660, Time: 977.5741 s, training loss: 0.3935
+Iteration: 680, Time: 997.8498 s, training loss: 0.3558
+Epoch 7 done: validation_accuracy = 0.784
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.787
+-----EPOCH8-----
+Iteration: 700, Time: 1069.5362 s, training loss: 0.3848
+Iteration: 720, Time: 1089.7540 s, training loss: 0.3950
+Iteration: 740, Time: 1109.9358 s, training loss: 0.3597
+Iteration: 760, Time: 1130.1551 s, training loss: 0.3556
+Iteration: 780, Time: 1150.3601 s, training loss: 0.3013
+Epoch 8 done: validation_accuracy = 0.773
+-----EPOCH9-----
+Iteration: 800, Time: 1177.2236 s, training loss: 0.3392
+Iteration: 820, Time: 1197.4014 s, training loss: 0.3490
+Iteration: 840, Time: 1217.5552 s, training loss: 0.3148
+Iteration: 860, Time: 1237.7131 s, training loss: 0.3241
+Iteration: 880, Time: 1257.8195 s, training loss: 0.2457
+Epoch 9 done: validation_accuracy = 0.784
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.793
+-----EPOCH10-----
+Iteration: 900, Time: 1329.4288 s, training loss: 0.3157
+Iteration: 920, Time: 1349.6381 s, training loss: 0.3068
+Iteration: 940, Time: 1369.8538 s, training loss: 0.2678
+Iteration: 960, Time: 1390.0777 s, training loss: 0.2902
+Iteration: 980, Time: 1410.2946 s, training loss: 0.2080
+Epoch 10 done: validation_accuracy = 0.771
+-----EPOCH11-----
+Iteration: 1000, Time: 1437.2360 s, training loss: 0.2846
+Iteration: 1020, Time: 1457.4590 s, training loss: 0.2765
+Iteration: 1040, Time: 1477.7137 s, training loss: 0.2439
+Iteration: 1060, Time: 1497.9297 s, training loss: 0.2502
+Iteration: 1080, Time: 1518.1927 s, training loss: 0.1862
+Epoch 11 done: validation_accuracy = 0.768
+-----EPOCH12-----
+Iteration: 1100, Time: 1544.9688 s, training loss: 0.2789
+Iteration: 1120, Time: 1565.1955 s, training loss: 0.2538
+Iteration: 1140, Time: 1585.4127 s, training loss: 0.2227
+Iteration: 1160, Time: 1605.6697 s, training loss: 0.2195
+Iteration: 1180, Time: 1625.8708 s, training loss: 0.1595
+Epoch 12 done: validation_accuracy = 0.784
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.7845
+-----EPOCH13-----
+Iteration: 1200, Time: 1698.2148 s, training loss: 0.2667
+Iteration: 1220, Time: 1718.4121 s, training loss: 0.2140
+Iteration: 1240, Time: 1738.5766 s, training loss: 0.2050
+Iteration: 1260, Time: 1758.7376 s, training loss: 0.1976
+Iteration: 1280, Time: 1778.9229 s, training loss: 0.1509
+Epoch 13 done: validation_accuracy = 0.784
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.79
+-----EPOCH14-----
+Iteration: 1300, Time: 1851.0021 s, training loss: 0.2205
+Iteration: 1320, Time: 1871.1267 s, training loss: 0.2241
+Iteration: 1340, Time: 1891.2397 s, training loss: 0.2168
+Iteration: 1360, Time: 1911.3758 s, training loss: 0.1976
+Iteration: 1380, Time: 1931.5179 s, training loss: 0.1299
+Epoch 14 done: validation_accuracy = 0.807
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.7975
+-----EPOCH15-----
+Iteration: 1400, Time: 2003.2946 s, training loss: 0.2096
+Iteration: 1420, Time: 2023.4104 s, training loss: 0.1778
+Iteration: 1440, Time: 2043.5572 s, training loss: 0.2246
+Iteration: 1460, Time: 2063.6901 s, training loss: 0.1384
+Iteration: 1480, Time: 2083.8233 s, training loss: 0.1142
+Epoch 15 done: validation_accuracy = 0.786
+-----EPOCH16-----
+Iteration: 1500, Time: 2110.6903 s, training loss: 0.2289
+Iteration: 1520, Time: 2130.8044 s, training loss: 0.1745
+Iteration: 1540, Time: 2150.8951 s, training loss: 0.2455
+Iteration: 1560, Time: 2171.0179 s, training loss: 0.1564
+Iteration: 1580, Time: 2191.1917 s, training loss: 0.1176
+Epoch 16 done: validation_accuracy = 0.802
+-----EPOCH17-----
+Iteration: 1600, Time: 2217.9423 s, training loss: 0.2026
+Iteration: 1620, Time: 2238.0865 s, training loss: 0.3013
+Iteration: 1640, Time: 2258.2172 s, training loss: 0.2479
+Iteration: 1660, Time: 2278.3644 s, training loss: 0.1757
+Iteration: 1680, Time: 2298.4798 s, training loss: 0.1354
+Epoch 17 done: validation_accuracy = 0.794
+-----EPOCH18-----
+Iteration: 1700, Time: 2325.3468 s, training loss: 0.2092
+Iteration: 1720, Time: 2345.5026 s, training loss: 0.2593
+Iteration: 1740, Time: 2365.6739 s, training loss: 0.2119
+Iteration: 1760, Time: 2385.7838 s, training loss: 0.1684
+Iteration: 1780, Time: 2405.9101 s, training loss: 0.1196
+Epoch 18 done: validation_accuracy = 0.799
+-----EPOCH19-----
+Iteration: 1800, Time: 2432.6382 s, training loss: 0.2065
+Iteration: 1820, Time: 2452.8287 s, training loss: 0.1861
+Iteration: 1840, Time: 2472.9552 s, training loss: 0.1865
+Iteration: 1860, Time: 2493.0805 s, training loss: 0.1471
+Iteration: 1880, Time: 2513.2459 s, training loss: 0.1015
+Epoch 19 done: validation_accuracy = 0.797
+-----EPOCH20-----
+Iteration: 1900, Time: 2540.0953 s, training loss: 0.1488
+Iteration: 1920, Time: 2560.2373 s, training loss: 0.1687
+Iteration: 1940, Time: 2580.3890 s, training loss: 0.1672
+Iteration: 1960, Time: 2600.5546 s, training loss: 0.1120
+Iteration: 1980, Time: 2620.6951 s, training loss: 0.0794
+Epoch 20 done: validation_accuracy = 0.802
+Validation is not improving. stopping training
+test accuracy =  0.7975
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+-----EPOCH1-----
+Iteration: 20, Time: 17.0703 s, training loss: 0.6948
+Iteration: 40, Time: 34.1548 s, training loss: 0.6940
+Iteration: 60, Time: 51.2179 s, training loss: 0.6935
+Iteration: 80, Time: 68.2729 s, training loss: 0.6934
+Iteration: 100, Time: 85.3897 s, training loss: 0.6921
+Iteration: 120, Time: 102.4768 s, training loss: 0.6918
+Iteration: 140, Time: 119.5698 s, training loss: 0.6980
+Iteration: 160, Time: 136.6821 s, training loss: 0.6939
+Iteration: 180, Time: 153.7749 s, training loss: 0.6928
+Epoch 1 done: validation_accuracy = 0.503
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.4995
+-----EPOCH2-----
+Iteration: 200, Time: 245.1789 s, training loss: 0.6927
+Iteration: 220, Time: 262.2165 s, training loss: 0.6944
+Iteration: 240, Time: 279.2766 s, training loss: 0.6928
+Iteration: 260, Time: 296.3434 s, training loss: 0.6924
+Iteration: 280, Time: 313.4005 s, training loss: 0.6919
+Iteration: 300, Time: 330.4331 s, training loss: 0.6910
+Iteration: 320, Time: 347.5180 s, training loss: 0.6906
+Iteration: 340, Time: 364.6036 s, training loss: 0.6969
+Iteration: 360, Time: 381.6545 s, training loss: 0.6927
+Iteration: 380, Time: 398.7094 s, training loss: 0.6913
+Epoch 2 done: validation_accuracy = 0.531
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.51
+-----EPOCH3-----
+Iteration: 400, Time: 490.2798 s, training loss: 0.6926
+Iteration: 420, Time: 507.3327 s, training loss: 0.6929
+Iteration: 440, Time: 524.4542 s, training loss: 0.6915
+Iteration: 460, Time: 541.5101 s, training loss: 0.6906
+Iteration: 480, Time: 558.5826 s, training loss: 0.6895
+Iteration: 500, Time: 575.6538 s, training loss: 0.6878
+Iteration: 520, Time: 592.7003 s, training loss: 0.6884
+Iteration: 540, Time: 609.7817 s, training loss: 0.6965
+Iteration: 560, Time: 626.8842 s, training loss: 0.6901
+Iteration: 580, Time: 643.9545 s, training loss: 0.6891
+Epoch 3 done: validation_accuracy = 0.526
+-----EPOCH4-----
+Iteration: 600, Time: 672.0479 s, training loss: 0.6904
+Iteration: 620, Time: 689.0294 s, training loss: 0.6912
+Iteration: 640, Time: 706.0307 s, training loss: 0.6888
+Iteration: 660, Time: 723.0252 s, training loss: 0.6850
+Iteration: 680, Time: 740.0153 s, training loss: 0.6833
+Iteration: 700, Time: 756.9829 s, training loss: 0.6809
+Iteration: 720, Time: 773.9605 s, training loss: 0.6825
+Iteration: 740, Time: 790.9386 s, training loss: 0.6948
+Iteration: 760, Time: 807.9198 s, training loss: 0.6819
+Iteration: 780, Time: 824.8689 s, training loss: 0.6869
+Epoch 4 done: validation_accuracy = 0.546
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.556
+-----EPOCH5-----
+Iteration: 800, Time: 917.5206 s, training loss: 0.6855
+Iteration: 820, Time: 934.5774 s, training loss: 0.6850
+Iteration: 840, Time: 951.5991 s, training loss: 0.6785
+Iteration: 860, Time: 968.6835 s, training loss: 0.6697
+Iteration: 880, Time: 985.7705 s, training loss: 0.6559
+Iteration: 900, Time: 1002.8446 s, training loss: 0.6578
+Iteration: 920, Time: 1019.9338 s, training loss: 0.6639
+Iteration: 940, Time: 1036.9769 s, training loss: 0.6784
+Iteration: 960, Time: 1054.0822 s, training loss: 0.6520
+Iteration: 980, Time: 1071.1774 s, training loss: 0.6780
+Epoch 5 done: validation_accuracy = 0.569
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.594
+-----EPOCH6-----
+Iteration: 1000, Time: 1162.4105 s, training loss: 0.6666
+Iteration: 1020, Time: 1179.4014 s, training loss: 0.6571
+Iteration: 1040, Time: 1196.4356 s, training loss: 0.6610
+Iteration: 1060, Time: 1213.4634 s, training loss: 0.6403
+Iteration: 1080, Time: 1230.4845 s, training loss: 0.5902
+Iteration: 1100, Time: 1247.5140 s, training loss: 0.6124
+Iteration: 1120, Time: 1264.5572 s, training loss: 0.6547
+Iteration: 1140, Time: 1281.5730 s, training loss: 0.6627
+Iteration: 1160, Time: 1298.5951 s, training loss: 0.6490
+Iteration: 1180, Time: 1315.6500 s, training loss: 0.6514
+Epoch 6 done: validation_accuracy = 0.569
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.624
+-----EPOCH7-----
+Iteration: 1200, Time: 1408.3131 s, training loss: 0.6439
+Iteration: 1220, Time: 1425.3903 s, training loss: 0.6484
+Iteration: 1240, Time: 1442.4534 s, training loss: 0.6374
+Iteration: 1260, Time: 1459.5290 s, training loss: 0.6195
+Iteration: 1280, Time: 1476.5726 s, training loss: 0.5727
+Iteration: 1300, Time: 1493.6276 s, training loss: 0.5990
+Iteration: 1320, Time: 1510.7019 s, training loss: 0.6449
+Iteration: 1340, Time: 1527.7966 s, training loss: 0.6402
+Iteration: 1360, Time: 1544.8849 s, training loss: 0.6353
+Iteration: 1380, Time: 1561.9938 s, training loss: 0.6357
+Epoch 7 done: validation_accuracy = 0.582
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.631
+-----EPOCH8-----
+Iteration: 1400, Time: 1654.4713 s, training loss: 0.6440
+Iteration: 1420, Time: 1671.5572 s, training loss: 0.6344
+Iteration: 1440, Time: 1688.7140 s, training loss: 0.6122
+Iteration: 1460, Time: 1705.8079 s, training loss: 0.6036
+Iteration: 1480, Time: 1722.8920 s, training loss: 0.5734
+Iteration: 1500, Time: 1740.0259 s, training loss: 0.5831
+Iteration: 1520, Time: 1757.1316 s, training loss: 0.6426
+Iteration: 1540, Time: 1774.2133 s, training loss: 0.6199
+Iteration: 1560, Time: 1791.3474 s, training loss: 0.6238
+Iteration: 1580, Time: 1808.4735 s, training loss: 0.6155
+Epoch 8 done: validation_accuracy = 0.607
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6415
+-----EPOCH9-----
+Iteration: 1600, Time: 1900.1945 s, training loss: 0.6358
+Iteration: 1620, Time: 1917.1897 s, training loss: 0.6342
+Iteration: 1640, Time: 1934.2620 s, training loss: 0.5966
+Iteration: 1660, Time: 1951.3103 s, training loss: 0.5812
+Iteration: 1680, Time: 1968.3521 s, training loss: 0.5558
+Iteration: 1700, Time: 1985.4084 s, training loss: 0.5884
+Iteration: 1720, Time: 2002.4529 s, training loss: 0.6140
+Iteration: 1740, Time: 2019.5175 s, training loss: 0.6047
+Iteration: 1760, Time: 2036.5632 s, training loss: 0.6043
+Iteration: 1780, Time: 2053.6235 s, training loss: 0.6013
+Epoch 9 done: validation_accuracy = 0.645
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6595
+-----EPOCH10-----
+Iteration: 1800, Time: 2145.2071 s, training loss: 0.6235
+Iteration: 1820, Time: 2162.2792 s, training loss: 0.6267
+Iteration: 1840, Time: 2179.3600 s, training loss: 0.5775
+Iteration: 1860, Time: 2196.4354 s, training loss: 0.5729
+Iteration: 1880, Time: 2213.5199 s, training loss: 0.5593
+Iteration: 1900, Time: 2230.5585 s, training loss: 0.5645
+Iteration: 1920, Time: 2247.6061 s, training loss: 0.5935
+Iteration: 1940, Time: 2264.6661 s, training loss: 0.5845
+Iteration: 1960, Time: 2281.7099 s, training loss: 0.6098
+Iteration: 1980, Time: 2298.7944 s, training loss: 0.5777
+Epoch 10 done: validation_accuracy = 0.671
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.6755
+-----EPOCH11-----
+Iteration: 2000, Time: 2388.8009 s, training loss: 0.6097
+Iteration: 2020, Time: 2405.8005 s, training loss: 0.6348
+Iteration: 2040, Time: 2422.7953 s, training loss: 0.5492
+Iteration: 2060, Time: 2439.7949 s, training loss: 0.5632
+Iteration: 2080, Time: 2456.7893 s, training loss: 0.5501
+Iteration: 2100, Time: 2473.7709 s, training loss: 0.5521
+Iteration: 2120, Time: 2490.7791 s, training loss: 0.5772
+Iteration: 2140, Time: 2507.8149 s, training loss: 0.5616
+Iteration: 2160, Time: 2524.7609 s, training loss: 0.6296
+Iteration: 2180, Time: 2541.7567 s, training loss: 0.5654
+Epoch 11 done: validation_accuracy = 0.671
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.682
+-----EPOCH12-----
+Iteration: 2200, Time: 2634.4348 s, training loss: 0.5981
+Iteration: 2220, Time: 2651.4852 s, training loss: 0.6178
+Iteration: 2240, Time: 2668.5607 s, training loss: 0.5475
+Iteration: 2260, Time: 2685.6202 s, training loss: 0.5382
+Iteration: 2280, Time: 2702.7023 s, training loss: 0.5322
+Iteration: 2300, Time: 2719.7983 s, training loss: 0.5346
+Iteration: 2320, Time: 2736.9151 s, training loss: 0.5337
+Iteration: 2340, Time: 2754.0048 s, training loss: 0.5491
+Iteration: 2360, Time: 2771.0580 s, training loss: 0.6152
+Iteration: 2380, Time: 2788.1350 s, training loss: 0.5521
+Epoch 12 done: validation_accuracy = 0.684
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.693
+-----EPOCH13-----
+Iteration: 2400, Time: 2879.3505 s, training loss: 0.5842
+Iteration: 2420, Time: 2896.3752 s, training loss: 0.6083
+Iteration: 2440, Time: 2913.3965 s, training loss: 0.5635
+Iteration: 2460, Time: 2930.4315 s, training loss: 0.4954
+Iteration: 2480, Time: 2947.4246 s, training loss: 0.5358
+Iteration: 2500, Time: 2964.4845 s, training loss: 0.5138
+Iteration: 2520, Time: 2981.5177 s, training loss: 0.5075
+Iteration: 2540, Time: 2998.5524 s, training loss: 0.5478
+Iteration: 2560, Time: 3015.5855 s, training loss: 0.5915
+Iteration: 2580, Time: 3032.6624 s, training loss: 0.5525
+Epoch 13 done: validation_accuracy = 0.699
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.699
+-----EPOCH14-----
+Iteration: 2600, Time: 3125.2884 s, training loss: 0.5846
+Iteration: 2620, Time: 3142.3244 s, training loss: 0.5949
+Iteration: 2640, Time: 3159.3817 s, training loss: 0.5555
+Iteration: 2660, Time: 3176.4680 s, training loss: 0.4933
+Iteration: 2680, Time: 3193.5630 s, training loss: 0.5147
+Iteration: 2700, Time: 3210.6195 s, training loss: 0.4828
+Iteration: 2720, Time: 3227.6918 s, training loss: 0.5294
+Iteration: 2740, Time: 3244.7358 s, training loss: 0.5271
+Iteration: 2760, Time: 3261.7909 s, training loss: 0.5734
+Iteration: 2780, Time: 3278.8652 s, training loss: 0.5436
+Epoch 14 done: validation_accuracy = 0.717
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.697
+-----EPOCH15-----
+Iteration: 2800, Time: 3389.8012 s, training loss: 0.5817
+Iteration: 2820, Time: 3406.9253 s, training loss: 0.5882
+Iteration: 2840, Time: 3424.0472 s, training loss: 0.5437
+Iteration: 2860, Time: 3441.1359 s, training loss: 0.4647
+Iteration: 2880, Time: 3458.2219 s, training loss: 0.5405
+Iteration: 2900, Time: 3475.3398 s, training loss: 0.4684
+Iteration: 2920, Time: 3492.4588 s, training loss: 0.4983
+Iteration: 2940, Time: 3509.5844 s, training loss: 0.5084
+Iteration: 2960, Time: 3526.7262 s, training loss: 0.5753
+Iteration: 2980, Time: 3543.8253 s, training loss: 0.5530
+Epoch 15 done: validation_accuracy = 0.727
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_14
+test_acc on best model:  0.7
+-----EPOCH16-----
+Iteration: 3000, Time: 3635.5292 s, training loss: 0.5543
+Iteration: 3020, Time: 3652.5914 s, training loss: 0.5967
+Iteration: 3040, Time: 3669.6811 s, training loss: 0.5297
+Iteration: 3060, Time: 3686.7398 s, training loss: 0.4536
+Iteration: 3080, Time: 3703.8132 s, training loss: 0.5171
+Iteration: 3100, Time: 3720.8879 s, training loss: 0.4702
+Iteration: 3120, Time: 3737.9498 s, training loss: 0.4845
+Iteration: 3140, Time: 3754.9853 s, training loss: 0.5179
+Iteration: 3160, Time: 3772.0590 s, training loss: 0.5489
+Iteration: 3180, Time: 3789.1475 s, training loss: 0.5535
+Epoch 16 done: validation_accuracy = 0.730
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_15
+test_acc on best model:  0.7065
+-----EPOCH17-----
+Iteration: 3200, Time: 3880.9604 s, training loss: 0.5430
+Iteration: 3220, Time: 3898.0721 s, training loss: 0.6017
+Iteration: 3240, Time: 3915.1436 s, training loss: 0.5102
+Iteration: 3260, Time: 3932.2344 s, training loss: 0.4554
+Iteration: 3280, Time: 3949.3185 s, training loss: 0.4968
+Iteration: 3300, Time: 3966.3998 s, training loss: 0.4800
+Iteration: 3320, Time: 3983.5050 s, training loss: 0.4799
+Iteration: 3340, Time: 4000.5879 s, training loss: 0.4947
+Iteration: 3360, Time: 4017.6517 s, training loss: 0.5498
+Iteration: 3380, Time: 4034.7471 s, training loss: 0.5543
+Epoch 17 done: validation_accuracy = 0.727
+-----EPOCH18-----
+Iteration: 3400, Time: 4062.8147 s, training loss: 0.5316
+Iteration: 3420, Time: 4079.7999 s, training loss: 0.5947
+Iteration: 3440, Time: 4096.7984 s, training loss: 0.5120
+Iteration: 3460, Time: 4113.7751 s, training loss: 0.4390
+Iteration: 3480, Time: 4130.7798 s, training loss: 0.5003
+Iteration: 3500, Time: 4147.8031 s, training loss: 0.4684
+Iteration: 3520, Time: 4164.7860 s, training loss: 0.4672
+Iteration: 3540, Time: 4181.7769 s, training loss: 0.4841
+Iteration: 3560, Time: 4198.7925 s, training loss: 0.5594
+Iteration: 3580, Time: 4215.8026 s, training loss: 0.5537
+Epoch 18 done: validation_accuracy = 0.722
+-----EPOCH19-----
+Iteration: 3600, Time: 4244.3925 s, training loss: 0.5292
+Iteration: 3620, Time: 4261.4610 s, training loss: 0.5789
+Iteration: 3640, Time: 4278.5831 s, training loss: 0.5144
+Iteration: 3660, Time: 4295.6684 s, training loss: 0.4359
+Iteration: 3680, Time: 4312.7373 s, training loss: 0.4749
+Iteration: 3700, Time: 4329.8217 s, training loss: 0.4620
+Iteration: 3720, Time: 4346.8836 s, training loss: 0.4784
+Iteration: 3740, Time: 4363.9612 s, training loss: 0.4937
+Iteration: 3760, Time: 4381.0586 s, training loss: 0.5306
+Iteration: 3780, Time: 4398.1262 s, training loss: 0.5487
+Epoch 19 done: validation_accuracy = 0.730
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.7105
+-----EPOCH20-----
+Iteration: 3800, Time: 4489.6610 s, training loss: 0.5198
+Iteration: 3820, Time: 4506.7171 s, training loss: 0.5740
+Iteration: 3840, Time: 4523.7683 s, training loss: 0.5161
+Iteration: 3860, Time: 4540.7734 s, training loss: 0.4234
+Iteration: 3880, Time: 4557.8028 s, training loss: 0.4728
+Iteration: 3900, Time: 4574.8403 s, training loss: 0.4576
+Iteration: 3920, Time: 4591.8622 s, training loss: 0.4587
+Iteration: 3940, Time: 4608.8739 s, training loss: 0.4996
+Iteration: 3960, Time: 4625.9224 s, training loss: 0.5286
+Iteration: 3980, Time: 4642.9842 s, training loss: 0.5452
+Epoch 20 done: validation_accuracy = 0.730
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_19
+test_acc on best model:  0.7135
+-----EPOCH21-----
+Iteration: 4000, Time: 4754.2305 s, training loss: 0.5243
+Iteration: 4020, Time: 4771.3068 s, training loss: 0.5613
+Iteration: 4040, Time: 4788.3828 s, training loss: 0.5117
+Iteration: 4060, Time: 4805.4115 s, training loss: 0.4133
+Iteration: 4080, Time: 4822.4782 s, training loss: 0.4689
+Iteration: 4100, Time: 4839.5555 s, training loss: 0.4585
+Iteration: 4120, Time: 4856.6283 s, training loss: 0.4396
+Iteration: 4140, Time: 4873.6473 s, training loss: 0.5002
+Iteration: 4160, Time: 4890.6989 s, training loss: 0.5219
+Epoch 21 done: validation_accuracy = 0.732
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_20
+test_acc on best model:  0.7145
+-----EPOCH22-----
+Iteration: 4180, Time: 5002.4671 s, training loss: 0.5365
+Iteration: 4200, Time: 5019.5399 s, training loss: 0.5322
+Iteration: 4220, Time: 5036.6497 s, training loss: 0.5714
+Iteration: 4240, Time: 5053.7614 s, training loss: 0.4879
+Iteration: 4260, Time: 5070.8450 s, training loss: 0.4049
+Iteration: 4280, Time: 5087.9251 s, training loss: 0.4650
+Iteration: 4300, Time: 5104.9957 s, training loss: 0.4567
+Iteration: 4320, Time: 5122.0662 s, training loss: 0.4349
+Iteration: 4340, Time: 5139.1657 s, training loss: 0.4895
+Iteration: 4360, Time: 5156.2884 s, training loss: 0.5186
+Epoch 22 done: validation_accuracy = 0.740
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_21
+test_acc on best model:  0.7165
+-----EPOCH23-----
+Iteration: 4380, Time: 5247.8509 s, training loss: 0.5530
+Iteration: 4400, Time: 5264.8889 s, training loss: 0.5207
+Iteration: 4420, Time: 5281.9590 s, training loss: 0.5588
+Iteration: 4440, Time: 5299.0095 s, training loss: 0.4880
+Iteration: 4460, Time: 5316.0464 s, training loss: 0.4019
+Iteration: 4480, Time: 5333.1158 s, training loss: 0.4545
+Iteration: 4500, Time: 5350.1550 s, training loss: 0.4493
+Iteration: 4520, Time: 5367.2062 s, training loss: 0.4280
+Iteration: 4540, Time: 5384.2709 s, training loss: 0.4935
+Iteration: 4560, Time: 5401.3060 s, training loss: 0.5180
+Epoch 23 done: validation_accuracy = 0.740
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_22
+test_acc on best model:  0.72
+-----EPOCH24-----
+Iteration: 4580, Time: 5493.1926 s, training loss: 0.5539
+Iteration: 4600, Time: 5510.2625 s, training loss: 0.5261
+Iteration: 4620, Time: 5527.3565 s, training loss: 0.5381
+Iteration: 4640, Time: 5544.3975 s, training loss: 0.4885
+Iteration: 4660, Time: 5561.4861 s, training loss: 0.3839
+Iteration: 4680, Time: 5578.5867 s, training loss: 0.4426
+Iteration: 4700, Time: 5595.6587 s, training loss: 0.4489
+Iteration: 4720, Time: 5612.7169 s, training loss: 0.4404
+Iteration: 4740, Time: 5629.7980 s, training loss: 0.4809
+Iteration: 4760, Time: 5646.8579 s, training loss: 0.5230
+Epoch 24 done: validation_accuracy = 0.737
+-----EPOCH25-----
+Iteration: 4780, Time: 5674.9795 s, training loss: 0.5529
+Iteration: 4800, Time: 5691.9796 s, training loss: 0.5234
+Iteration: 4820, Time: 5708.9625 s, training loss: 0.5195
+Iteration: 4840, Time: 5725.9190 s, training loss: 0.4780
+Iteration: 4860, Time: 5742.9197 s, training loss: 0.3807
+Iteration: 4880, Time: 5759.8824 s, training loss: 0.4446
+Iteration: 4900, Time: 5776.8732 s, training loss: 0.4411
+Iteration: 4920, Time: 5793.8886 s, training loss: 0.4639
+Iteration: 4940, Time: 5810.8241 s, training loss: 0.4561
+Iteration: 4960, Time: 5827.8139 s, training loss: 0.5129
+Epoch 25 done: validation_accuracy = 0.742
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_24
+test_acc on best model:  0.724
+-----EPOCH26-----
+Iteration: 4980, Time: 5920.5168 s, training loss: 0.5498
+Iteration: 5000, Time: 5937.6329 s, training loss: 0.5078
+Iteration: 5020, Time: 5954.7400 s, training loss: 0.5282
+Iteration: 5040, Time: 5971.8324 s, training loss: 0.4639
+Iteration: 5060, Time: 5988.9594 s, training loss: 0.3985
+Iteration: 5080, Time: 6006.0844 s, training loss: 0.4144
+Iteration: 5100, Time: 6023.1932 s, training loss: 0.4542
+Iteration: 5120, Time: 6040.2993 s, training loss: 0.4406
+Iteration: 5140, Time: 6057.4479 s, training loss: 0.4957
+Iteration: 5160, Time: 6074.5816 s, training loss: 0.4822
+Epoch 26 done: validation_accuracy = 0.747
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_25
+test_acc on best model:  0.7235
+-----EPOCH27-----
+Iteration: 5180, Time: 6166.0478 s, training loss: 0.5343
+Iteration: 5200, Time: 6183.0729 s, training loss: 0.5174
+Iteration: 5220, Time: 6200.1183 s, training loss: 0.5175
+Iteration: 5240, Time: 6217.1404 s, training loss: 0.4527
+Iteration: 5260, Time: 6234.1985 s, training loss: 0.4011
+Iteration: 5280, Time: 6251.2438 s, training loss: 0.4299
+Iteration: 5300, Time: 6268.3160 s, training loss: 0.4399
+Iteration: 5320, Time: 6285.3522 s, training loss: 0.4325
+Iteration: 5340, Time: 6302.4177 s, training loss: 0.4813
+Iteration: 5360, Time: 6319.4873 s, training loss: 0.4845
+Epoch 27 done: validation_accuracy = 0.745
+-----EPOCH28-----
+Iteration: 5380, Time: 6348.0512 s, training loss: 0.5304
+Iteration: 5400, Time: 6365.1267 s, training loss: 0.5227
+Iteration: 5420, Time: 6382.2026 s, training loss: 0.4970
+Iteration: 5440, Time: 6399.3118 s, training loss: 0.4530
+Iteration: 5460, Time: 6416.4236 s, training loss: 0.3941
+Iteration: 5480, Time: 6433.4970 s, training loss: 0.4333
+Iteration: 5500, Time: 6450.5646 s, training loss: 0.4353
+Iteration: 5520, Time: 6467.6550 s, training loss: 0.4446
+Iteration: 5540, Time: 6484.7117 s, training loss: 0.4600
+Iteration: 5560, Time: 6501.8072 s, training loss: 0.4931
+Epoch 28 done: validation_accuracy = 0.745
+-----EPOCH29-----
+Iteration: 5580, Time: 6530.3450 s, training loss: 0.5148
+Iteration: 5600, Time: 6547.4414 s, training loss: 0.5384
+Iteration: 5620, Time: 6564.5398 s, training loss: 0.4889
+Iteration: 5640, Time: 6581.5953 s, training loss: 0.4372
+Iteration: 5660, Time: 6598.6687 s, training loss: 0.3942
+Iteration: 5680, Time: 6615.7569 s, training loss: 0.4400
+Iteration: 5700, Time: 6632.8187 s, training loss: 0.4193
+Iteration: 5720, Time: 6649.8910 s, training loss: 0.4515
+Iteration: 5740, Time: 6666.9898 s, training loss: 0.4592
+Iteration: 5760, Time: 6684.1054 s, training loss: 0.4834
+Epoch 29 done: validation_accuracy = 0.745
+-----EPOCH30-----
+Iteration: 5780, Time: 6712.5104 s, training loss: 0.5114
+Iteration: 5800, Time: 6729.5556 s, training loss: 0.5341
+Iteration: 5820, Time: 6746.6382 s, training loss: 0.4921
+Iteration: 5840, Time: 6763.6837 s, training loss: 0.4316
+Iteration: 5860, Time: 6780.7224 s, training loss: 0.4050
+Iteration: 5880, Time: 6797.7647 s, training loss: 0.4129
+Iteration: 5900, Time: 6814.8501 s, training loss: 0.4113
+Iteration: 5920, Time: 6831.9122 s, training loss: 0.4396
+Iteration: 5940, Time: 6848.9696 s, training loss: 0.4895
+Iteration: 5960, Time: 6866.0763 s, training loss: 0.4611
+Epoch 30 done: validation_accuracy = 0.747
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_29
+test_acc on best model:  0.733
+-----EPOCH31-----
+Iteration: 5980, Time: 6989.8508 s, training loss: 0.5037
+Iteration: 6000, Time: 7006.9132 s, training loss: 0.5549
+Iteration: 6020, Time: 7024.0020 s, training loss: 0.4713
+Iteration: 6040, Time: 7041.0580 s, training loss: 0.4202
+Iteration: 6060, Time: 7058.1350 s, training loss: 0.4050
+Iteration: 6080, Time: 7075.1747 s, training loss: 0.4106
+Iteration: 6100, Time: 7092.2504 s, training loss: 0.4065
+Iteration: 6120, Time: 7109.3437 s, training loss: 0.4331
+Iteration: 6140, Time: 7126.4157 s, training loss: 0.4905
+Iteration: 6160, Time: 7143.4937 s, training loss: 0.4742
+Epoch 31 done: validation_accuracy = 0.747
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_30
+test_acc on best model:  0.735
+-----EPOCH32-----
+Iteration: 6180, Time: 7233.6705 s, training loss: 0.4945
+Iteration: 6200, Time: 7250.6644 s, training loss: 0.5628
+Iteration: 6220, Time: 7267.6875 s, training loss: 0.4676
+Iteration: 6240, Time: 7284.6684 s, training loss: 0.3882
+Iteration: 6260, Time: 7301.6148 s, training loss: 0.4212
+Iteration: 6280, Time: 7318.6063 s, training loss: 0.4105
+Iteration: 6300, Time: 7335.6010 s, training loss: 0.3828
+Iteration: 6320, Time: 7352.6140 s, training loss: 0.4428
+Iteration: 6340, Time: 7369.5924 s, training loss: 0.5157
+Iteration: 6360, Time: 7386.6158 s, training loss: 0.4386
+Epoch 32 done: validation_accuracy = 0.747
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_31
+test_acc on best model:  0.736
+-----EPOCH33-----
+Iteration: 6380, Time: 7479.4399 s, training loss: 0.4929
+Iteration: 6400, Time: 7496.5201 s, training loss: 0.5557
+Iteration: 6420, Time: 7513.6004 s, training loss: 0.4877
+Iteration: 6440, Time: 7530.6760 s, training loss: 0.3598
+Iteration: 6460, Time: 7547.7321 s, training loss: 0.4419
+Iteration: 6480, Time: 7564.8270 s, training loss: 0.3848
+Iteration: 6500, Time: 7581.9265 s, training loss: 0.3790
+Iteration: 6520, Time: 7598.9800 s, training loss: 0.4497
+Iteration: 6540, Time: 7616.0696 s, training loss: 0.5015
+Iteration: 6560, Time: 7633.1467 s, training loss: 0.4421
+Epoch 33 done: validation_accuracy = 0.755
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_32
+test_acc on best model:  0.737
+-----EPOCH34-----
+Iteration: 6580, Time: 7724.4662 s, training loss: 0.5092
+Iteration: 6600, Time: 7741.4840 s, training loss: 0.5393
+Iteration: 6620, Time: 7758.4998 s, training loss: 0.4862
+Iteration: 6640, Time: 7775.5456 s, training loss: 0.3579
+Iteration: 6660, Time: 7792.5765 s, training loss: 0.4332
+Iteration: 6680, Time: 7809.5929 s, training loss: 0.3675
+Iteration: 6700, Time: 7826.6007 s, training loss: 0.4347
+Iteration: 6720, Time: 7843.6370 s, training loss: 0.4117
+Iteration: 6740, Time: 7860.6993 s, training loss: 0.4909
+Iteration: 6760, Time: 7877.7048 s, training loss: 0.4365
+Epoch 34 done: validation_accuracy = 0.760
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_33
+test_acc on best model:  0.738
+-----EPOCH35-----
+Iteration: 6780, Time: 7970.5241 s, training loss: 0.5148
+Iteration: 6800, Time: 7987.6132 s, training loss: 0.5450
+Iteration: 6820, Time: 8004.6750 s, training loss: 0.4778
+Iteration: 6840, Time: 8021.7203 s, training loss: 0.3354
+Iteration: 6860, Time: 8038.8024 s, training loss: 0.4534
+Iteration: 6880, Time: 8055.8803 s, training loss: 0.3733
+Iteration: 6900, Time: 8072.9385 s, training loss: 0.4036
+Iteration: 6920, Time: 8090.0258 s, training loss: 0.4068
+Iteration: 6940, Time: 8107.0597 s, training loss: 0.4923
+Iteration: 6960, Time: 8124.1450 s, training loss: 0.4482
+Epoch 35 done: validation_accuracy = 0.768
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_34
+test_acc on best model:  0.7375
+-----EPOCH36-----
+Iteration: 6980, Time: 8217.0108 s, training loss: 0.5009
+Iteration: 7000, Time: 8234.1168 s, training loss: 0.5503
+Iteration: 7020, Time: 8251.1909 s, training loss: 0.4709
+Iteration: 7040, Time: 8268.2754 s, training loss: 0.3501
+Iteration: 7060, Time: 8285.3557 s, training loss: 0.4205
+Iteration: 7080, Time: 8302.4596 s, training loss: 0.3765
+Iteration: 7100, Time: 8319.5430 s, training loss: 0.4003
+Iteration: 7120, Time: 8336.6374 s, training loss: 0.4166
+Iteration: 7140, Time: 8353.7336 s, training loss: 0.4699
+Iteration: 7160, Time: 8370.8356 s, training loss: 0.4575
+Epoch 36 done: validation_accuracy = 0.770
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_35
+test_acc on best model:  0.7395
+-----EPOCH37-----
+Iteration: 7180, Time: 8462.4286 s, training loss: 0.4861
+Iteration: 7200, Time: 8479.4468 s, training loss: 0.5625
+Iteration: 7220, Time: 8496.4917 s, training loss: 0.4549
+Iteration: 7240, Time: 8513.5738 s, training loss: 0.3617
+Iteration: 7260, Time: 8530.6515 s, training loss: 0.4026
+Iteration: 7280, Time: 8547.6744 s, training loss: 0.3896
+Iteration: 7300, Time: 8564.7648 s, training loss: 0.3939
+Iteration: 7320, Time: 8581.8028 s, training loss: 0.4045
+Iteration: 7340, Time: 8598.8241 s, training loss: 0.4727
+Iteration: 7360, Time: 8615.8679 s, training loss: 0.4625
+Epoch 37 done: validation_accuracy = 0.768
+-----EPOCH38-----
+Iteration: 7380, Time: 8644.2339 s, training loss: 0.4759
+Iteration: 7400, Time: 8661.3157 s, training loss: 0.5619
+Iteration: 7420, Time: 8678.3738 s, training loss: 0.4479
+Iteration: 7440, Time: 8695.4629 s, training loss: 0.3572
+Iteration: 7460, Time: 8712.5425 s, training loss: 0.4166
+Iteration: 7480, Time: 8729.6037 s, training loss: 0.3805
+Iteration: 7500, Time: 8746.6802 s, training loss: 0.3714
+Iteration: 7520, Time: 8763.7581 s, training loss: 0.4029
+Iteration: 7540, Time: 8780.8294 s, training loss: 0.4844
+Iteration: 7560, Time: 8797.9177 s, training loss: 0.4649
+Epoch 38 done: validation_accuracy = 0.770
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_37
+test_acc on best model:  0.741
+-----EPOCH39-----
+Iteration: 7580, Time: 8887.9168 s, training loss: 0.4800
+Iteration: 7600, Time: 8904.9278 s, training loss: 0.5431
+Iteration: 7620, Time: 8921.9113 s, training loss: 0.4566
+Iteration: 7640, Time: 8938.9208 s, training loss: 0.3632
+Iteration: 7660, Time: 8955.8836 s, training loss: 0.3845
+Iteration: 7680, Time: 8972.8837 s, training loss: 0.3814
+Iteration: 7700, Time: 8989.9066 s, training loss: 0.3917
+Iteration: 7720, Time: 9006.8811 s, training loss: 0.3999
+Iteration: 7740, Time: 9023.8649 s, training loss: 0.4561
+Iteration: 7760, Time: 9040.8640 s, training loss: 0.4659
+Epoch 39 done: validation_accuracy = 0.773
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_38
+test_acc on best model:  0.741
+-----EPOCH40-----
+Iteration: 7780, Time: 9133.6203 s, training loss: 0.4760
+Iteration: 7800, Time: 9150.7227 s, training loss: 0.5364
+Iteration: 7820, Time: 9167.8070 s, training loss: 0.4572
+Iteration: 7840, Time: 9184.8866 s, training loss: 0.3598
+Iteration: 7860, Time: 9201.9619 s, training loss: 0.3822
+Iteration: 7880, Time: 9219.0452 s, training loss: 0.3809
+Iteration: 7900, Time: 9236.1026 s, training loss: 0.3737
+Iteration: 7920, Time: 9253.1552 s, training loss: 0.4084
+Iteration: 7940, Time: 9270.2368 s, training loss: 0.4540
+Iteration: 7960, Time: 9287.3050 s, training loss: 0.4593
+Epoch 40 done: validation_accuracy = 0.773
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_39
+test_acc on best model:  0.7435
+test accuracy =  0.7435
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 20.9530 s, training loss: 0.6941
+Iteration: 40, Time: 41.9801 s, training loss: 0.6947
+Iteration: 60, Time: 63.0045 s, training loss: 0.6927
+Iteration: 80, Time: 83.9717 s, training loss: 0.6922
+Iteration: 100, Time: 104.9038 s, training loss: 0.6922
+Epoch 1 done: validation_accuracy = 0.527
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5495
+-----EPOCH2-----
+Iteration: 120, Time: 173.3262 s, training loss: 0.6880
+Iteration: 140, Time: 194.2909 s, training loss: 0.6893
+Iteration: 160, Time: 215.2958 s, training loss: 0.6887
+Iteration: 180, Time: 236.2618 s, training loss: 0.6864
+Iteration: 200, Time: 257.2075 s, training loss: 0.6864
+Epoch 2 done: validation_accuracy = 0.542
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.5455
+-----EPOCH3-----
+Iteration: 220, Time: 325.6222 s, training loss: 0.6823
+Iteration: 240, Time: 346.6498 s, training loss: 0.6838
+Iteration: 260, Time: 367.6312 s, training loss: 0.6832
+Iteration: 280, Time: 388.6292 s, training loss: 0.6781
+Iteration: 300, Time: 409.6574 s, training loss: 0.6781
+Epoch 3 done: validation_accuracy = 0.555
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.5465
+-----EPOCH4-----
+Iteration: 320, Time: 478.6930 s, training loss: 0.6736
+Iteration: 340, Time: 499.6649 s, training loss: 0.6755
+Iteration: 360, Time: 520.6927 s, training loss: 0.6749
+Iteration: 380, Time: 541.6836 s, training loss: 0.6656
+Iteration: 400, Time: 562.5633 s, training loss: 0.6657
+Epoch 4 done: validation_accuracy = 0.560
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.5555
+-----EPOCH5-----
+Iteration: 420, Time: 631.2783 s, training loss: 0.6606
+Iteration: 440, Time: 652.2325 s, training loss: 0.6625
+Iteration: 460, Time: 673.1195 s, training loss: 0.6629
+Iteration: 480, Time: 694.0977 s, training loss: 0.6487
+Iteration: 500, Time: 715.0266 s, training loss: 0.6486
+Epoch 5 done: validation_accuracy = 0.570
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.5595
+-----EPOCH6-----
+Iteration: 520, Time: 783.3955 s, training loss: 0.6423
+Iteration: 540, Time: 804.3828 s, training loss: 0.6422
+Iteration: 560, Time: 825.4077 s, training loss: 0.6461
+Iteration: 580, Time: 846.3802 s, training loss: 0.6287
+Iteration: 600, Time: 867.3478 s, training loss: 0.6258
+Epoch 6 done: validation_accuracy = 0.578
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.578
+-----EPOCH7-----
+Iteration: 620, Time: 936.3804 s, training loss: 0.6165
+Iteration: 640, Time: 957.3874 s, training loss: 0.6091
+Iteration: 660, Time: 978.3794 s, training loss: 0.6206
+Iteration: 680, Time: 999.3157 s, training loss: 0.6053
+Iteration: 700, Time: 1020.2419 s, training loss: 0.5934
+Epoch 7 done: validation_accuracy = 0.598
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.5975
+-----EPOCH8-----
+Iteration: 720, Time: 1088.9667 s, training loss: 0.5827
+Iteration: 740, Time: 1109.9164 s, training loss: 0.5595
+Iteration: 760, Time: 1130.9134 s, training loss: 0.5874
+Iteration: 780, Time: 1151.9076 s, training loss: 0.5803
+Iteration: 800, Time: 1172.8875 s, training loss: 0.5555
+Epoch 8 done: validation_accuracy = 0.615
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6215
+-----EPOCH9-----
+Iteration: 820, Time: 1241.5614 s, training loss: 0.5484
+Iteration: 840, Time: 1262.5193 s, training loss: 0.5150
+Iteration: 860, Time: 1283.5145 s, training loss: 0.5571
+Iteration: 880, Time: 1304.4974 s, training loss: 0.5517
+Iteration: 900, Time: 1325.4687 s, training loss: 0.5175
+Epoch 9 done: validation_accuracy = 0.618
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6405
+-----EPOCH10-----
+Iteration: 920, Time: 1394.4581 s, training loss: 0.5103
+Iteration: 940, Time: 1415.4087 s, training loss: 0.4864
+Iteration: 960, Time: 1436.4271 s, training loss: 0.5238
+Iteration: 980, Time: 1457.3962 s, training loss: 0.5182
+Iteration: 1000, Time: 1478.3250 s, training loss: 0.4806
+Epoch 10 done: validation_accuracy = 0.635
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.655
+-----EPOCH11-----
+Iteration: 1020, Time: 1547.0910 s, training loss: 0.4768
+Iteration: 1040, Time: 1568.0612 s, training loss: 0.4506
+Iteration: 1060, Time: 1589.0595 s, training loss: 0.4893
+Iteration: 1080, Time: 1610.0745 s, training loss: 0.4699
+Iteration: 1100, Time: 1631.0444 s, training loss: 0.4822
+Epoch 11 done: validation_accuracy = 0.620
+-----EPOCH12-----
+Iteration: 1120, Time: 1658.7954 s, training loss: 0.4499
+Iteration: 1140, Time: 1679.7687 s, training loss: 0.4230
+Iteration: 1160, Time: 1700.7366 s, training loss: 0.4540
+Iteration: 1180, Time: 1721.6050 s, training loss: 0.4380
+Iteration: 1200, Time: 1742.5253 s, training loss: 0.4257
+Epoch 12 done: validation_accuracy = 0.680
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.6675
+-----EPOCH13-----
+Iteration: 1220, Time: 1810.8847 s, training loss: 0.4240
+Iteration: 1240, Time: 1831.8381 s, training loss: 0.4027
+Iteration: 1260, Time: 1852.7138 s, training loss: 0.4242
+Iteration: 1280, Time: 1873.5975 s, training loss: 0.4004
+Iteration: 1300, Time: 1894.5066 s, training loss: 0.3929
+Epoch 13 done: validation_accuracy = 0.685
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.6755
+-----EPOCH14-----
+Iteration: 1320, Time: 1963.3394 s, training loss: 0.3982
+Iteration: 1340, Time: 1984.2838 s, training loss: 0.3846
+Iteration: 1360, Time: 2005.2017 s, training loss: 0.3958
+Iteration: 1380, Time: 2026.0611 s, training loss: 0.3669
+Iteration: 1400, Time: 2046.9065 s, training loss: 0.3631
+Epoch 14 done: validation_accuracy = 0.693
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.672
+-----EPOCH15-----
+Iteration: 1420, Time: 2115.6026 s, training loss: 0.3749
+Iteration: 1440, Time: 2136.5726 s, training loss: 0.3677
+Iteration: 1460, Time: 2157.4315 s, training loss: 0.3700
+Iteration: 1480, Time: 2178.3307 s, training loss: 0.3370
+Iteration: 1500, Time: 2199.2174 s, training loss: 0.3645
+Epoch 15 done: validation_accuracy = 0.630
+-----EPOCH16-----
+Iteration: 1520, Time: 2226.8749 s, training loss: 0.5464
+Iteration: 1540, Time: 2247.7599 s, training loss: 0.4275
+Iteration: 1560, Time: 2268.7165 s, training loss: 0.4071
+Iteration: 1580, Time: 2289.6092 s, training loss: 0.4166
+Iteration: 1600, Time: 2310.4195 s, training loss: 0.3811
+Epoch 16 done: validation_accuracy = 0.610
+-----EPOCH17-----
+Iteration: 1620, Time: 2338.2301 s, training loss: 0.3629
+Iteration: 1640, Time: 2359.2723 s, training loss: 0.3593
+Iteration: 1660, Time: 2380.2338 s, training loss: 0.3555
+Iteration: 1680, Time: 2401.2064 s, training loss: 0.3584
+Iteration: 1700, Time: 2422.2058 s, training loss: 0.3358
+Epoch 17 done: validation_accuracy = 0.620
+-----EPOCH18-----
+Iteration: 1720, Time: 2450.0962 s, training loss: 0.3252
+Iteration: 1740, Time: 2471.0855 s, training loss: 0.3268
+Iteration: 1760, Time: 2492.0173 s, training loss: 0.3240
+Iteration: 1780, Time: 2513.0498 s, training loss: 0.3170
+Iteration: 1800, Time: 2534.0556 s, training loss: 0.3036
+Epoch 18 done: validation_accuracy = 0.637
+Validation is not improving. stopping training
+test accuracy =  0.672
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 42.5031 s, training loss: 0.6926
+Epoch 1 done: validation_accuracy = 0.570
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5821572580645161
+-----EPOCH2-----
+Iteration: 40, Time: 113.6302 s, training loss: 0.6879
+Epoch 2 done: validation_accuracy = 0.596
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6088709677419355
+-----EPOCH3-----
+Iteration: 60, Time: 185.4646 s, training loss: 0.6842
+Epoch 3 done: validation_accuracy = 0.604
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6129032258064516
+-----EPOCH4-----
+Iteration: 80, Time: 257.1843 s, training loss: 0.6789
+Iteration: 100, Time: 300.6052 s, training loss: 0.6737
+Epoch 4 done: validation_accuracy = 0.602
+-----EPOCH5-----
+Iteration: 120, Time: 348.3101 s, training loss: 0.6645
+Epoch 5 done: validation_accuracy = 0.602
+-----EPOCH6-----
+Iteration: 140, Time: 395.6941 s, training loss: 0.6525
+Epoch 6 done: validation_accuracy = 0.620
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.6365927419354839
+-----EPOCH7-----
+Iteration: 160, Time: 466.9607 s, training loss: 0.6398
+Epoch 7 done: validation_accuracy = 0.628
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.6502016129032258
+-----EPOCH8-----
+Iteration: 180, Time: 537.4917 s, training loss: 0.6233
+Iteration: 200, Time: 580.7400 s, training loss: 0.6057
+Epoch 8 done: validation_accuracy = 0.669
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.6663306451612904
+-----EPOCH9-----
+Iteration: 220, Time: 652.2509 s, training loss: 0.5771
+Epoch 9 done: validation_accuracy = 0.680
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.6920362903225806
+-----EPOCH10-----
+Iteration: 240, Time: 724.0737 s, training loss: 0.5448
+Epoch 10 done: validation_accuracy = 0.695
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.7182459677419355
+-----EPOCH11-----
+Iteration: 260, Time: 795.9590 s, training loss: 0.5095
+Epoch 11 done: validation_accuracy = 0.711
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.7570564516129032
+-----EPOCH12-----
+Iteration: 280, Time: 867.8942 s, training loss: 0.4658
+Iteration: 300, Time: 911.3943 s, training loss: 0.4370
+Epoch 12 done: validation_accuracy = 0.742
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.7716733870967742
+-----EPOCH13-----
+Iteration: 320, Time: 982.5015 s, training loss: 0.4181
+Epoch 13 done: validation_accuracy = 0.755
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.7918346774193549
+-----EPOCH14-----
+Iteration: 340, Time: 1053.7944 s, training loss: 0.4044
+Epoch 14 done: validation_accuracy = 0.768
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_13
+test_acc on best model:  0.7953629032258065
+-----EPOCH15-----
+Iteration: 360, Time: 1133.5955 s, training loss: 0.3894
+Epoch 15 done: validation_accuracy = 0.768
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_14
+test_acc on best model:  0.8009072580645161
+-----EPOCH16-----
+Iteration: 380, Time: 1205.3853 s, training loss: 0.3759
+Iteration: 400, Time: 1248.9328 s, training loss: 0.3716
+Epoch 16 done: validation_accuracy = 0.779
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_15
+test_acc on best model:  0.8029233870967742
+-----EPOCH17-----
+Iteration: 420, Time: 1321.0959 s, training loss: 0.3468
+Epoch 17 done: validation_accuracy = 0.781
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_16
+test_acc on best model:  0.8024193548387096
+-----EPOCH18-----
+Iteration: 440, Time: 1393.2669 s, training loss: 0.3426
+Epoch 18 done: validation_accuracy = 0.799
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.8019153225806451
+-----EPOCH19-----
+Iteration: 460, Time: 1465.4519 s, training loss: 0.3317
+Epoch 19 done: validation_accuracy = 0.799
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.8044354838709677
+-----EPOCH20-----
+Iteration: 480, Time: 1536.8394 s, training loss: 0.3201
+Iteration: 500, Time: 1580.3527 s, training loss: 0.3245
+Epoch 20 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_19
+test_acc on best model:  0.8029233870967742
+-----EPOCH21-----
+Iteration: 520, Time: 1651.8676 s, training loss: 0.3500
+Epoch 21 done: validation_accuracy = 0.773
+-----EPOCH22-----
+Iteration: 540, Time: 1699.1989 s, training loss: 0.3216
+Epoch 22 done: validation_accuracy = 0.799
+-----EPOCH23-----
+Iteration: 560, Time: 1746.5702 s, training loss: 0.3026
+Epoch 23 done: validation_accuracy = 0.797
+-----EPOCH24-----
+Iteration: 580, Time: 1794.9593 s, training loss: 0.2868
+Iteration: 600, Time: 1838.4271 s, training loss: 0.2843
+Epoch 24 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_23
+test_acc on best model:  0.8069556451612904
+-----EPOCH25-----
+Iteration: 620, Time: 1910.4557 s, training loss: 0.2556
+Epoch 25 done: validation_accuracy = 0.810
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_24
+test_acc on best model:  0.8029233870967742
+-----EPOCH26-----
+Iteration: 640, Time: 1982.7106 s, training loss: 0.2589
+Epoch 26 done: validation_accuracy = 0.805
+-----EPOCH27-----
+Iteration: 660, Time: 2030.6012 s, training loss: 0.2643
+Epoch 27 done: validation_accuracy = 0.807
+-----EPOCH28-----
+Iteration: 680, Time: 2078.3195 s, training loss: 0.2543
+Iteration: 700, Time: 2122.5856 s, training loss: 0.2558
+Epoch 28 done: validation_accuracy = 0.807
+-----EPOCH29-----
+Iteration: 720, Time: 2170.3567 s, training loss: 0.2262
+Epoch 29 done: validation_accuracy = 0.805
+Validation is not improving. stopping training
+test accuracy =  0.8029233870967742
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 26.8593 s, training loss: 0.6923
+Iteration: 40, Time: 53.7460 s, training loss: 0.6918
+Epoch 1 done: validation_accuracy = 0.630
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.6174395161290323
+-----EPOCH2-----
+Iteration: 60, Time: 109.9951 s, training loss: 0.6879
+Iteration: 80, Time: 136.8649 s, training loss: 0.6858
+Iteration: 100, Time: 163.7558 s, training loss: 0.6834
+Epoch 2 done: validation_accuracy = 0.612
+-----EPOCH3-----
+Iteration: 120, Time: 194.9157 s, training loss: 0.6774
+Iteration: 140, Time: 221.7407 s, training loss: 0.6748
+Epoch 3 done: validation_accuracy = 0.615
+-----EPOCH4-----
+Iteration: 160, Time: 252.9039 s, training loss: 0.6671
+Iteration: 180, Time: 279.8649 s, training loss: 0.6588
+Iteration: 200, Time: 306.7475 s, training loss: 0.6518
+Epoch 4 done: validation_accuracy = 0.628
+-----EPOCH5-----
+Iteration: 220, Time: 337.8576 s, training loss: 0.6302
+Iteration: 240, Time: 364.7996 s, training loss: 0.6225
+Epoch 5 done: validation_accuracy = 0.661
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.6557459677419355
+-----EPOCH6-----
+Iteration: 260, Time: 421.5984 s, training loss: 0.6045
+Iteration: 280, Time: 448.5110 s, training loss: 0.5644
+Iteration: 300, Time: 475.4909 s, training loss: 0.5680
+Epoch 6 done: validation_accuracy = 0.677
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.7076612903225806
+-----EPOCH7-----
+Iteration: 320, Time: 532.3327 s, training loss: 0.4943
+Iteration: 340, Time: 559.3098 s, training loss: 0.4800
+Epoch 7 done: validation_accuracy = 0.719
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.7464717741935484
+-----EPOCH8-----
+Iteration: 360, Time: 616.1033 s, training loss: 0.4739
+Iteration: 380, Time: 643.0209 s, training loss: 0.4075
+Iteration: 400, Time: 669.9153 s, training loss: 0.4541
+Epoch 8 done: validation_accuracy = 0.784
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.7731854838709677
+-----EPOCH9-----
+Iteration: 420, Time: 726.7106 s, training loss: 0.3889
+Iteration: 440, Time: 753.5798 s, training loss: 0.4019
+Epoch 9 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.7847782258064516
+-----EPOCH10-----
+Iteration: 460, Time: 810.3033 s, training loss: 0.3977
+Iteration: 480, Time: 837.2673 s, training loss: 0.3461
+Iteration: 500, Time: 864.1530 s, training loss: 0.4066
+Epoch 10 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.7928427419354839
+-----EPOCH11-----
+Iteration: 520, Time: 920.8724 s, training loss: 0.3421
+Iteration: 540, Time: 947.8307 s, training loss: 0.3593
+Epoch 11 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.7963709677419355
+-----EPOCH12-----
+Iteration: 560, Time: 1004.5781 s, training loss: 0.3542
+Iteration: 580, Time: 1031.5465 s, training loss: 0.3069
+Iteration: 600, Time: 1058.5423 s, training loss: 0.3687
+Epoch 12 done: validation_accuracy = 0.797
+-----EPOCH13-----
+Iteration: 620, Time: 1089.6848 s, training loss: 0.3093
+Iteration: 640, Time: 1116.5823 s, training loss: 0.3210
+Epoch 13 done: validation_accuracy = 0.792
+-----EPOCH14-----
+Iteration: 660, Time: 1147.8016 s, training loss: 0.3190
+Iteration: 680, Time: 1174.7322 s, training loss: 0.2766
+Iteration: 700, Time: 1201.6892 s, training loss: 0.3303
+Epoch 14 done: validation_accuracy = 0.794
+-----EPOCH15-----
+Iteration: 720, Time: 1232.9623 s, training loss: 0.2806
+Iteration: 740, Time: 1259.8381 s, training loss: 0.2860
+Epoch 15 done: validation_accuracy = 0.797
+Validation is not improving. stopping training
+test accuracy =  0.7963709677419355
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 20.1345 s, training loss: 0.6937
+Iteration: 40, Time: 40.3104 s, training loss: 0.6915
+Iteration: 60, Time: 60.5124 s, training loss: 0.6896
+Iteration: 80, Time: 80.6594 s, training loss: 0.6903
+Iteration: 100, Time: 100.8512 s, training loss: 0.6858
+Epoch 1 done: validation_accuracy = 0.617
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.6129032258064516
+-----EPOCH2-----
+Iteration: 120, Time: 172.0638 s, training loss: 0.6782
+Iteration: 140, Time: 192.2697 s, training loss: 0.6789
+Iteration: 160, Time: 212.4115 s, training loss: 0.6770
+Iteration: 180, Time: 232.6223 s, training loss: 0.6754
+Iteration: 200, Time: 252.7570 s, training loss: 0.6686
+Epoch 2 done: validation_accuracy = 0.622
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.6255040322580645
+-----EPOCH3-----
+Iteration: 220, Time: 323.8466 s, training loss: 0.6570
+Iteration: 240, Time: 344.0190 s, training loss: 0.6570
+Iteration: 260, Time: 364.1031 s, training loss: 0.6510
+Iteration: 280, Time: 384.3094 s, training loss: 0.6489
+Iteration: 300, Time: 404.5253 s, training loss: 0.6380
+Epoch 3 done: validation_accuracy = 0.625
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6441532258064516
+-----EPOCH4-----
+Iteration: 320, Time: 476.0079 s, training loss: 0.6190
+Iteration: 340, Time: 496.1554 s, training loss: 0.6108
+Iteration: 360, Time: 516.3358 s, training loss: 0.5994
+Iteration: 380, Time: 536.4657 s, training loss: 0.6047
+Iteration: 400, Time: 556.6178 s, training loss: 0.5917
+Epoch 4 done: validation_accuracy = 0.669
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6819556451612904
+-----EPOCH5-----
+Iteration: 420, Time: 627.9711 s, training loss: 0.5562
+Iteration: 440, Time: 648.1462 s, training loss: 0.5225
+Iteration: 460, Time: 668.2950 s, training loss: 0.5024
+Iteration: 480, Time: 688.5094 s, training loss: 0.5090
+Iteration: 500, Time: 708.6373 s, training loss: 0.5077
+Epoch 5 done: validation_accuracy = 0.724
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.7600806451612904
+-----EPOCH6-----
+Iteration: 520, Time: 779.9520 s, training loss: 0.4710
+Iteration: 540, Time: 800.1173 s, training loss: 0.4265
+Iteration: 560, Time: 820.2969 s, training loss: 0.4189
+Iteration: 580, Time: 840.4616 s, training loss: 0.4217
+Iteration: 600, Time: 860.6766 s, training loss: 0.4497
+Epoch 6 done: validation_accuracy = 0.755
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_5
+test_acc on best model:  0.7787298387096774
+-----EPOCH7-----
+Iteration: 620, Time: 932.5608 s, training loss: 0.4341
+Iteration: 640, Time: 952.7284 s, training loss: 0.4008
+Iteration: 660, Time: 972.9464 s, training loss: 0.3792
+Iteration: 680, Time: 993.0894 s, training loss: 0.3798
+Iteration: 700, Time: 1013.2964 s, training loss: 0.3895
+Epoch 7 done: validation_accuracy = 0.786
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.7883064516129032
+-----EPOCH8-----
+Iteration: 720, Time: 1084.5701 s, training loss: 0.3829
+Iteration: 740, Time: 1104.6735 s, training loss: 0.3460
+Iteration: 760, Time: 1124.8448 s, training loss: 0.3356
+Iteration: 780, Time: 1145.0144 s, training loss: 0.3400
+Iteration: 800, Time: 1165.1239 s, training loss: 0.3517
+Epoch 8 done: validation_accuracy = 0.789
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.8004032258064516
+-----EPOCH9-----
+Iteration: 820, Time: 1236.0593 s, training loss: 0.3334
+Iteration: 840, Time: 1256.2593 s, training loss: 0.3286
+Iteration: 860, Time: 1276.4103 s, training loss: 0.3266
+Iteration: 880, Time: 1296.5757 s, training loss: 0.3173
+Iteration: 900, Time: 1316.7925 s, training loss: 0.3268
+Epoch 9 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.8049395161290323
+-----EPOCH10-----
+Iteration: 920, Time: 1388.2601 s, training loss: 0.2944
+Iteration: 940, Time: 1408.3920 s, training loss: 0.3249
+Iteration: 960, Time: 1428.5828 s, training loss: 0.2939
+Iteration: 980, Time: 1448.6970 s, training loss: 0.3079
+Iteration: 1000, Time: 1468.8405 s, training loss: 0.3160
+Epoch 10 done: validation_accuracy = 0.802
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_9
+test_acc on best model:  0.8145161290322581
+-----EPOCH11-----
+Iteration: 1020, Time: 1540.1860 s, training loss: 0.2966
+Iteration: 1040, Time: 1560.3368 s, training loss: 0.2536
+Iteration: 1060, Time: 1580.5198 s, training loss: 0.2570
+Iteration: 1080, Time: 1600.7577 s, training loss: 0.2706
+Iteration: 1100, Time: 1620.9336 s, training loss: 0.2808
+Epoch 11 done: validation_accuracy = 0.799
+-----EPOCH12-----
+Iteration: 1120, Time: 1647.6076 s, training loss: 0.2957
+Iteration: 1140, Time: 1667.7698 s, training loss: 0.2453
+Iteration: 1160, Time: 1687.9403 s, training loss: 0.2444
+Iteration: 1180, Time: 1708.0693 s, training loss: 0.2510
+Iteration: 1200, Time: 1728.2653 s, training loss: 0.2624
+Epoch 12 done: validation_accuracy = 0.810
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_11
+test_acc on best model:  0.8034274193548387
+-----EPOCH13-----
+Iteration: 1220, Time: 1799.7209 s, training loss: 0.2713
+Iteration: 1240, Time: 1819.8685 s, training loss: 0.2130
+Iteration: 1260, Time: 1840.0463 s, training loss: 0.2210
+Iteration: 1280, Time: 1860.2079 s, training loss: 0.2399
+Iteration: 1300, Time: 1880.4347 s, training loss: 0.2415
+Epoch 13 done: validation_accuracy = 0.815
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.8049395161290323
+-----EPOCH14-----
+Iteration: 1320, Time: 1952.1719 s, training loss: 0.2313
+Iteration: 1340, Time: 1972.3398 s, training loss: 0.1896
+Iteration: 1360, Time: 1992.4623 s, training loss: 0.1955
+Iteration: 1380, Time: 2012.7176 s, training loss: 0.2164
+Iteration: 1400, Time: 2032.8724 s, training loss: 0.2120
+Epoch 14 done: validation_accuracy = 0.812
+-----EPOCH15-----
+Iteration: 1420, Time: 2059.5914 s, training loss: 0.1921
+Iteration: 1440, Time: 2079.7758 s, training loss: 0.1701
+Iteration: 1460, Time: 2099.9407 s, training loss: 0.1636
+Iteration: 1480, Time: 2120.0943 s, training loss: 0.1968
+Iteration: 1500, Time: 2140.2924 s, training loss: 0.1806
+Epoch 15 done: validation_accuracy = 0.815
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_14
+test_acc on best model:  0.8074596774193549
+-----EPOCH16-----
+Iteration: 1520, Time: 2211.8237 s, training loss: 0.7584
+Iteration: 1540, Time: 2231.9980 s, training loss: 0.4516
+Iteration: 1560, Time: 2252.1893 s, training loss: 0.4118
+Iteration: 1580, Time: 2272.3334 s, training loss: 0.4008
+Iteration: 1600, Time: 2292.5104 s, training loss: 0.4362
+Epoch 16 done: validation_accuracy = 0.706
+-----EPOCH17-----
+Iteration: 1620, Time: 2319.2985 s, training loss: 0.3867
+Iteration: 1640, Time: 2339.4803 s, training loss: 0.3872
+Iteration: 1660, Time: 2359.6371 s, training loss: 0.3671
+Iteration: 1680, Time: 2379.8106 s, training loss: 0.3613
+Iteration: 1700, Time: 2399.9736 s, training loss: 0.3895
+Epoch 17 done: validation_accuracy = 0.719
+-----EPOCH18-----
+Iteration: 1720, Time: 2426.6499 s, training loss: 0.3411
+Iteration: 1740, Time: 2446.8664 s, training loss: 0.3275
+Iteration: 1760, Time: 2467.0271 s, training loss: 0.3132
+Iteration: 1780, Time: 2487.2168 s, training loss: 0.3140
+Iteration: 1800, Time: 2507.4372 s, training loss: 0.3385
+Epoch 18 done: validation_accuracy = 0.745
+-----EPOCH19-----
+Iteration: 1820, Time: 2534.2265 s, training loss: 0.2968
+Iteration: 1840, Time: 2554.4256 s, training loss: 0.2695
+Iteration: 1860, Time: 2574.6667 s, training loss: 0.2567
+Iteration: 1880, Time: 2594.8555 s, training loss: 0.2574
+Iteration: 1900, Time: 2615.0348 s, training loss: 0.2798
+Epoch 19 done: validation_accuracy = 0.773
+Validation is not improving. stopping training
+test accuracy =  0.8074596774193549
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+-----EPOCH1-----
+Iteration: 20, Time: 26.8846 s, training loss: 0.6959
+Iteration: 40, Time: 53.7763 s, training loss: 0.6929
+Epoch 1 done: validation_accuracy = 0.523
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5252016129032258
+-----EPOCH2-----
+Iteration: 60, Time: 111.8955 s, training loss: 0.6901
+Iteration: 80, Time: 138.7591 s, training loss: 0.6821
+Iteration: 100, Time: 165.6435 s, training loss: 0.6873
+Epoch 2 done: validation_accuracy = 0.570
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.5861895161290323
+-----EPOCH3-----
+Iteration: 120, Time: 224.4479 s, training loss: 0.6689
+Iteration: 140, Time: 251.3623 s, training loss: 0.6617
+Epoch 3 done: validation_accuracy = 0.586
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.6043346774193549
+-----EPOCH4-----
+Iteration: 160, Time: 309.9969 s, training loss: 0.6748
+Iteration: 180, Time: 336.9654 s, training loss: 0.6431
+Iteration: 200, Time: 363.9040 s, training loss: 0.6600
+Epoch 4 done: validation_accuracy = 0.630
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.6350806451612904
+-----EPOCH5-----
+Iteration: 220, Time: 422.3727 s, training loss: 0.6080
+Iteration: 240, Time: 449.3360 s, training loss: 0.6315
+Epoch 5 done: validation_accuracy = 0.643
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.6421370967741935
+-----EPOCH6-----
+Iteration: 260, Time: 507.9375 s, training loss: 0.6229
+Iteration: 280, Time: 534.8293 s, training loss: 0.5968
+Iteration: 300, Time: 561.7926 s, training loss: 0.6405
+Epoch 6 done: validation_accuracy = 0.625
+-----EPOCH7-----
+Iteration: 320, Time: 592.9155 s, training loss: 0.5789
+Iteration: 340, Time: 619.8225 s, training loss: 0.5871
+Epoch 7 done: validation_accuracy = 0.682
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_6
+test_acc on best model:  0.7076612903225806
+-----EPOCH8-----
+Iteration: 360, Time: 678.3146 s, training loss: 0.5707
+Iteration: 380, Time: 705.1868 s, training loss: 0.5575
+Iteration: 400, Time: 732.1068 s, training loss: 0.5907
+Epoch 8 done: validation_accuracy = 0.669
+-----EPOCH9-----
+Iteration: 420, Time: 763.3255 s, training loss: 0.4850
+Iteration: 440, Time: 790.1938 s, training loss: 0.5303
+Epoch 9 done: validation_accuracy = 0.719
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.7273185483870968
+-----EPOCH10-----
+Iteration: 460, Time: 849.1519 s, training loss: 0.5048
+Iteration: 480, Time: 876.1127 s, training loss: 0.4583
+Iteration: 500, Time: 902.9577 s, training loss: 0.4912
+Epoch 10 done: validation_accuracy = 0.703
+-----EPOCH11-----
+Iteration: 520, Time: 934.1623 s, training loss: 0.4188
+Iteration: 540, Time: 961.1791 s, training loss: 0.4645
+Epoch 11 done: validation_accuracy = 0.721
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_10
+test_acc on best model:  0.7091733870967742
+-----EPOCH12-----
+Iteration: 560, Time: 1037.6468 s, training loss: 0.4431
+Iteration: 580, Time: 1064.5598 s, training loss: 0.4123
+Iteration: 600, Time: 1091.5531 s, training loss: 0.4361
+Epoch 12 done: validation_accuracy = 0.701
+-----EPOCH13-----
+Iteration: 620, Time: 1122.6209 s, training loss: 0.3794
+Iteration: 640, Time: 1149.5556 s, training loss: 0.4147
+Epoch 13 done: validation_accuracy = 0.706
+-----EPOCH14-----
+Iteration: 660, Time: 1180.7578 s, training loss: 0.4097
+Iteration: 680, Time: 1207.6385 s, training loss: 0.3676
+Iteration: 700, Time: 1234.5683 s, training loss: 0.3878
+Epoch 14 done: validation_accuracy = 0.698
+-----EPOCH15-----
+Iteration: 720, Time: 1265.8525 s, training loss: 0.3378
+Iteration: 740, Time: 1292.7879 s, training loss: 0.3720
+Epoch 15 done: validation_accuracy = 0.740
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_14
+test_acc on best model:  0.7242943548387096
+-----EPOCH16-----
+Iteration: 760, Time: 1370.0719 s, training loss: 0.3966
+Iteration: 780, Time: 1396.9607 s, training loss: 0.3582
+Iteration: 800, Time: 1423.8605 s, training loss: 0.3622
+Epoch 16 done: validation_accuracy = 0.698
+-----EPOCH17-----
+Iteration: 820, Time: 1454.9166 s, training loss: 0.3362
+Iteration: 840, Time: 1481.9165 s, training loss: 0.3311
+Epoch 17 done: validation_accuracy = 0.721
+-----EPOCH18-----
+Iteration: 860, Time: 1513.1163 s, training loss: 0.3653
+Iteration: 880, Time: 1540.0106 s, training loss: 0.3478
+Iteration: 900, Time: 1567.0029 s, training loss: 0.3405
+Epoch 18 done: validation_accuracy = 0.701
+-----EPOCH19-----
+Iteration: 920, Time: 1598.1762 s, training loss: 0.3480
+Iteration: 940, Time: 1625.1129 s, training loss: 0.3686
+Epoch 19 done: validation_accuracy = 0.719
+Validation is not improving. stopping training
+test accuracy =  0.7242943548387096
+
+ Finished !!!!! see you soon...
+-----EPOCH1-----
+Iteration: 20, Time: 20.9257 s, training loss: 0.6948
+Iteration: 40, Time: 41.9177 s, training loss: 0.6935
+Iteration: 60, Time: 63.0134 s, training loss: 0.6933
+Iteration: 80, Time: 83.9615 s, training loss: 0.6935
+Iteration: 100, Time: 104.9343 s, training loss: 0.6927
+Epoch 1 done: validation_accuracy = 0.531
+not found
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_0
+test_acc on best model:  0.5569556451612904
+-----EPOCH2-----
+Iteration: 120, Time: 172.9839 s, training loss: 0.6888
+Iteration: 140, Time: 193.9756 s, training loss: 0.6885
+Iteration: 160, Time: 214.9530 s, training loss: 0.6899
+Iteration: 180, Time: 235.9882 s, training loss: 0.6888
+Iteration: 200, Time: 257.0023 s, training loss: 0.6885
+Epoch 2 done: validation_accuracy = 0.555
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_1
+test_acc on best model:  0.5665322580645161
+-----EPOCH3-----
+Iteration: 220, Time: 324.9655 s, training loss: 0.6838
+Iteration: 240, Time: 345.9898 s, training loss: 0.6830
+Iteration: 260, Time: 366.9438 s, training loss: 0.6844
+Iteration: 280, Time: 388.0045 s, training loss: 0.6828
+Iteration: 300, Time: 408.9828 s, training loss: 0.6825
+Epoch 3 done: validation_accuracy = 0.565
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_2
+test_acc on best model:  0.5715725806451613
+-----EPOCH4-----
+Iteration: 320, Time: 477.4755 s, training loss: 0.6760
+Iteration: 340, Time: 498.4523 s, training loss: 0.6744
+Iteration: 360, Time: 519.4630 s, training loss: 0.6751
+Iteration: 380, Time: 540.4486 s, training loss: 0.6735
+Iteration: 400, Time: 561.4774 s, training loss: 0.6728
+Epoch 4 done: validation_accuracy = 0.581
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_3
+test_acc on best model:  0.5801411290322581
+-----EPOCH5-----
+Iteration: 420, Time: 629.7715 s, training loss: 0.6632
+Iteration: 440, Time: 650.7436 s, training loss: 0.6601
+Iteration: 460, Time: 671.7390 s, training loss: 0.6597
+Iteration: 480, Time: 692.7811 s, training loss: 0.6593
+Iteration: 500, Time: 713.8147 s, training loss: 0.6580
+Epoch 5 done: validation_accuracy = 0.581
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_4
+test_acc on best model:  0.5836693548387096
+-----EPOCH6-----
+Iteration: 520, Time: 782.1098 s, training loss: 0.6435
+Iteration: 540, Time: 803.1400 s, training loss: 0.6374
+Iteration: 560, Time: 824.0874 s, training loss: 0.6374
+Iteration: 580, Time: 845.0854 s, training loss: 0.6404
+Iteration: 600, Time: 866.0741 s, training loss: 0.6388
+Epoch 6 done: validation_accuracy = 0.570
+-----EPOCH7-----
+Iteration: 620, Time: 893.7158 s, training loss: 0.6170
+Iteration: 640, Time: 914.7658 s, training loss: 0.6067
+Iteration: 660, Time: 935.7832 s, training loss: 0.6108
+Iteration: 680, Time: 956.7852 s, training loss: 0.6182
+Iteration: 700, Time: 977.8014 s, training loss: 0.6166
+Epoch 7 done: validation_accuracy = 0.578
+-----EPOCH8-----
+Iteration: 720, Time: 1005.4514 s, training loss: 0.5841
+Iteration: 740, Time: 1026.4903 s, training loss: 0.5721
+Iteration: 760, Time: 1047.4720 s, training loss: 0.5821
+Iteration: 780, Time: 1068.4660 s, training loss: 0.5911
+Iteration: 800, Time: 1089.4768 s, training loss: 0.5906
+Epoch 8 done: validation_accuracy = 0.586
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_7
+test_acc on best model:  0.59375
+-----EPOCH9-----
+Iteration: 820, Time: 1157.4711 s, training loss: 0.5454
+Iteration: 840, Time: 1178.4707 s, training loss: 0.5367
+Iteration: 860, Time: 1199.4241 s, training loss: 0.5509
+Iteration: 880, Time: 1220.4000 s, training loss: 0.5590
+Iteration: 900, Time: 1241.3766 s, training loss: 0.5607
+Epoch 9 done: validation_accuracy = 0.599
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_8
+test_acc on best model:  0.5962701612903226
+-----EPOCH10-----
+Iteration: 920, Time: 1309.9343 s, training loss: 0.5050
+Iteration: 940, Time: 1330.9487 s, training loss: 0.5024
+Iteration: 960, Time: 1352.0577 s, training loss: 0.5191
+Iteration: 980, Time: 1373.0683 s, training loss: 0.5255
+Iteration: 1000, Time: 1394.0548 s, training loss: 0.5288
+Epoch 10 done: validation_accuracy = 0.573
+-----EPOCH11-----
+Iteration: 1020, Time: 1421.7200 s, training loss: 0.4683
+Iteration: 1040, Time: 1442.6725 s, training loss: 0.4691
+Iteration: 1060, Time: 1463.6940 s, training loss: 0.4886
+Iteration: 1080, Time: 1484.6963 s, training loss: 0.4928
+Iteration: 1100, Time: 1505.6794 s, training loss: 0.4967
+Epoch 11 done: validation_accuracy = 0.589
+-----EPOCH12-----
+Iteration: 1120, Time: 1533.1795 s, training loss: 0.4367
+Iteration: 1140, Time: 1554.2101 s, training loss: 0.4374
+Iteration: 1160, Time: 1575.1824 s, training loss: 0.4582
+Iteration: 1180, Time: 1596.1635 s, training loss: 0.4618
+Iteration: 1200, Time: 1617.2058 s, training loss: 0.4659
+Epoch 12 done: validation_accuracy = 0.591
+-----EPOCH13-----
+Iteration: 1220, Time: 1644.7735 s, training loss: 0.4092
+Iteration: 1240, Time: 1665.7852 s, training loss: 0.4079
+Iteration: 1260, Time: 1686.8215 s, training loss: 0.4273
+Iteration: 1280, Time: 1707.8079 s, training loss: 0.4324
+Iteration: 1300, Time: 1728.8021 s, training loss: 0.4360
+Epoch 13 done: validation_accuracy = 0.612
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_12
+test_acc on best model:  0.6033266129032258
+-----EPOCH14-----
+Iteration: 1320, Time: 1797.3953 s, training loss: 0.3841
+Iteration: 1340, Time: 1818.3967 s, training loss: 0.3799
+Iteration: 1360, Time: 1839.4051 s, training loss: 0.3962
+Iteration: 1380, Time: 1860.4080 s, training loss: 0.4044
+Iteration: 1400, Time: 1881.3430 s, training loss: 0.4064
+Epoch 14 done: validation_accuracy = 0.609
+-----EPOCH15-----
+Iteration: 1420, Time: 1908.8846 s, training loss: 0.3602
+Iteration: 1440, Time: 1929.8732 s, training loss: 0.3527
+Iteration: 1460, Time: 1950.8810 s, training loss: 0.3649
+Iteration: 1480, Time: 1971.8394 s, training loss: 0.3770
+Iteration: 1500, Time: 1992.8705 s, training loss: 0.3768
+Epoch 15 done: validation_accuracy = 0.609
+-----EPOCH16-----
+Iteration: 1520, Time: 2020.4445 s, training loss: 0.3365
+Iteration: 1540, Time: 2041.4313 s, training loss: 0.3258
+Iteration: 1560, Time: 2062.4802 s, training loss: 0.3336
+Iteration: 1580, Time: 2083.5032 s, training loss: 0.3498
+Iteration: 1600, Time: 2104.4811 s, training loss: 0.3469
+Epoch 16 done: validation_accuracy = 0.617
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_15
+test_acc on best model:  0.6023185483870968
+-----EPOCH17-----
+Iteration: 1620, Time: 2173.1570 s, training loss: 0.3123
+Iteration: 1640, Time: 2194.1006 s, training loss: 0.2989
+Iteration: 1660, Time: 2215.1144 s, training loss: 0.3022
+Iteration: 1680, Time: 2236.1739 s, training loss: 0.3223
+Iteration: 1700, Time: 2257.1916 s, training loss: 0.3164
+Epoch 17 done: validation_accuracy = 0.625
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_16
+test_acc on best model:  0.6053427419354839
+-----EPOCH18-----
+Iteration: 1720, Time: 2325.2420 s, training loss: 0.2874
+Iteration: 1740, Time: 2346.2925 s, training loss: 0.2718
+Iteration: 1760, Time: 2367.2814 s, training loss: 0.2707
+Iteration: 1780, Time: 2388.2385 s, training loss: 0.2941
+Iteration: 1800, Time: 2409.2159 s, training loss: 0.2854
+Epoch 18 done: validation_accuracy = 0.628
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_17
+test_acc on best model:  0.6078629032258065
+-----EPOCH19-----
+Iteration: 1820, Time: 2477.7692 s, training loss: 0.2616
+Iteration: 1840, Time: 2498.7876 s, training loss: 0.2446
+Iteration: 1860, Time: 2519.7887 s, training loss: 0.2391
+Iteration: 1880, Time: 2540.7767 s, training loss: 0.2650
+Iteration: 1900, Time: 2561.7031 s, training loss: 0.2536
+Epoch 19 done: validation_accuracy = 0.633
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_18
+test_acc on best model:  0.6123991935483871
+-----EPOCH20-----
+Iteration: 1920, Time: 2630.0918 s, training loss: 0.2351
+Iteration: 1940, Time: 2651.0452 s, training loss: 0.2170
+Iteration: 1960, Time: 2672.0533 s, training loss: 0.2073
+Iteration: 1980, Time: 2693.0796 s, training loss: 0.2348
+Iteration: 2000, Time: 2714.0621 s, training loss: 0.2213
+Epoch 20 done: validation_accuracy = 0.633
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_19
+test_acc on best model:  0.6129032258064516
+-----EPOCH21-----
+Iteration: 2020, Time: 2782.1261 s, training loss: 0.2081
+Iteration: 2040, Time: 2803.1631 s, training loss: 0.1891
+Iteration: 2060, Time: 2824.1738 s, training loss: 0.1756
+Iteration: 2080, Time: 2845.1836 s, training loss: 0.2038
+Iteration: 2100, Time: 2866.2451 s, training loss: 0.1890
+Epoch 21 done: validation_accuracy = 0.638
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_20
+test_acc on best model:  0.6144153225806451
+-----EPOCH22-----
+Iteration: 2120, Time: 2934.7587 s, training loss: 0.1804
+Iteration: 2140, Time: 2955.7306 s, training loss: 0.1610
+Iteration: 2160, Time: 2976.7735 s, training loss: 0.1446
+Iteration: 2180, Time: 2997.7880 s, training loss: 0.1721
+Iteration: 2200, Time: 3018.7678 s, training loss: 0.1577
+Epoch 22 done: validation_accuracy = 0.635
+-----EPOCH23-----
+Iteration: 2220, Time: 3046.3883 s, training loss: 0.1523
+Iteration: 2240, Time: 3067.3509 s, training loss: 0.1329
+Iteration: 2260, Time: 3088.3718 s, training loss: 0.1149
+Iteration: 2280, Time: 3109.3210 s, training loss: 0.1401
+Iteration: 2300, Time: 3130.3329 s, training loss: 0.1289
+Epoch 23 done: validation_accuracy = 0.646
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_22
+test_acc on best model:  0.6194556451612904
+-----EPOCH24-----
+Iteration: 2320, Time: 3198.3774 s, training loss: 0.1247
+Iteration: 2340, Time: 3219.3600 s, training loss: 0.1061
+Iteration: 2360, Time: 3240.3652 s, training loss: 0.0877
+Iteration: 2380, Time: 3261.3398 s, training loss: 0.1090
+Iteration: 2400, Time: 3282.4077 s, training loss: 0.1033
+Epoch 24 done: validation_accuracy = 0.651
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_23
+test_acc on best model:  0.6189516129032258
+-----EPOCH25-----
+Iteration: 2420, Time: 3350.9333 s, training loss: 0.0984
+Iteration: 2440, Time: 3371.9119 s, training loss: 0.0822
+Iteration: 2460, Time: 3392.9404 s, training loss: 0.0648
+Iteration: 2480, Time: 3413.9216 s, training loss: 0.0807
+Iteration: 2500, Time: 3434.9029 s, training loss: 0.0798
+Epoch 25 done: validation_accuracy = 0.654
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_24
+test_acc on best model:  0.6164314516129032
+-----EPOCH26-----
+Iteration: 2520, Time: 3534.2178 s, training loss: 0.0733
+Iteration: 2540, Time: 3555.1913 s, training loss: 0.0612
+Iteration: 2560, Time: 3576.2120 s, training loss: 0.0471
+Iteration: 2580, Time: 3597.2307 s, training loss: 0.0591
+Iteration: 2600, Time: 3618.2004 s, training loss: 0.0611
+Epoch 26 done: validation_accuracy = 0.654
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_25
+test_acc on best model:  0.6184475806451613
+-----EPOCH27-----
+Iteration: 2620, Time: 3686.3157 s, training loss: 0.0530
+Iteration: 2640, Time: 3707.3407 s, training loss: 0.0421
+Iteration: 2660, Time: 3728.3267 s, training loss: 0.0327
+Iteration: 2680, Time: 3749.3267 s, training loss: 0.0441
+Iteration: 2700, Time: 3770.3328 s, training loss: 0.0342
+Epoch 27 done: validation_accuracy = 0.664
+validation accuracy improved: saving checkpoint...
+checkpoint saved to: ../../model/checkpoint_epoch_26
+test_acc on best model:  0.6214717741935484
+-----EPOCH28-----
+Iteration: 2720, Time: 3874.0020 s, training loss: 0.0344
+Iteration: 2740, Time: 3894.9875 s, training loss: 0.0258
+Iteration: 2760, Time: 3915.9627 s, training loss: 0.0203
+Iteration: 2780, Time: 3936.9757 s, training loss: 0.0389
+Iteration: 2800, Time: 3957.9744 s, training loss: 0.0274
+Epoch 28 done: validation_accuracy = 0.661
+-----EPOCH29-----
+Iteration: 2820, Time: 3985.5834 s, training loss: 0.0282
+Iteration: 2840, Time: 4006.5567 s, training loss: 0.0180
+Iteration: 2860, Time: 4027.5608 s, training loss: 0.0134
+Iteration: 2880, Time: 4048.5584 s, training loss: 0.0347
+Iteration: 2900, Time: 4069.4932 s, training loss: 0.0185
+Epoch 29 done: validation_accuracy = 0.661
+-----EPOCH30-----
+Iteration: 2920, Time: 4097.0409 s, training loss: 0.0225
+Iteration: 2940, Time: 4118.1110 s, training loss: 0.0140
+Iteration: 2960, Time: 4139.1145 s, training loss: 0.0115
+Iteration: 2980, Time: 4160.1187 s, training loss: 0.0305
+Iteration: 3000, Time: 4181.1402 s, training loss: 0.0130
+Epoch 30 done: validation_accuracy = 0.661
+-----EPOCH31-----
+Iteration: 3020, Time: 4208.7466 s, training loss: 0.0143
+Iteration: 3040, Time: 4229.7432 s, training loss: 0.0088
+Iteration: 3060, Time: 4250.7267 s, training loss: 0.0085
+Iteration: 3080, Time: 4271.7140 s, training loss: 0.0268
+Iteration: 3100, Time: 4292.7105 s, training loss: 0.0101
+Epoch 31 done: validation_accuracy = 0.656
+Validation is not improving. stopping training
+test accuracy =  0.6214717741935484
+
+ Finished !!!!! see you soon...
