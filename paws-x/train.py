@@ -1,5 +1,6 @@
 import json
 import gensim
+from gensim.models import KeyedVectors
 from epoch_saver import EpochSaver
 import torch
 from nltk.tokenize import word_tokenize
@@ -77,7 +78,10 @@ except:
 # load the pretraind word vectors:
 if args.algorithm == 'word2vec':
     try:
-        modelw2v = gensim.models.Word2Vec.load(args.model_path, mmap='r')
+        if args.model_path.split('.')[-1] == 'model':
+            modelw2v = gensim.models.Word2Vec.load(args.model_path, mmap='r')
+        else:
+            modelw2v = KeyedVectors.load_word2vec_format(args.model_path, binary=True, unicode_errors="ignore")
         w2v = torch.FloatTensor(modelw2v.wv.vectors) 
     except:
         print("enter a valid model path or 'no' for non pretrained vectors...")
