@@ -1,4 +1,4 @@
-# Evaluation of Word Embeddings on FLUE Benchmark
+# Evaluation of Word Embeddings on the FLUE Benchmark
 
 This repository includes the codes to evaluate the quality of French word embeddings on three NLU tasks from FLUE: CLS (Sentiment classification), PAWSX (Paraphrasing) and XNLI (Inference). This repository can be used to reproduce the results obtained in [https://arxiv.org/abs/2105.01990] 
 
