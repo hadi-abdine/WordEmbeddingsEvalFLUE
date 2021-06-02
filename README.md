@@ -3,7 +3,6 @@
 This repository includes the codes to evaluate the quality of French word embeddings on three NLU tasks from FLUE: CLS (Sentiment classification), PAWSX (Paraphrasing) and XNLI (Inference). This repository can be used to reproduce the results obtained in [https://arxiv.org/abs/2105.01990] 
 
 To prepare the data for the three datasets we refer to the original repository of FlauBERT and FLUE: [https://github.com/getalp/Flaubert/tree/master/flue] <br>
-We used JSON format of the data that can be downloaded here: [https://drive.google.com/drive/folders/1QOI9Qhm7KltBQzLR9edS1w_5SMo6fmsw?usp=sharing]
 
 Our French word embeddings can be downloaded from [http://master2-bigdata.polytechnique.fr/FrenchLinguisticResources/resources] upon request.
 
