@@ -4,7 +4,7 @@ This repository includes the codes to evaluate the quality of French word embedd
 
 To prepare the data for the three datasets we refer to the original repository of FlauBERT and FLUE: [https://github.com/getalp/Flaubert/tree/master/flue] <br>
 
-Our French word embeddings can be downloaded from [http://master2-bigdata.polytechnique.fr/FrenchLinguisticResources/resources] upon request.
+Our French word embeddings can be downloaded from [http://nlp.polytechnique.fr/] upon request.
 
 To evaluate the quality of the static word embeddings on the sentiment classification task we will use feed the embeddings into a BiLSTM model while for PAWSX and XNLI tasks we will use ESIM. All the details about the models can be found in the above mentioned paper.
 
